@@ -240,9 +240,21 @@ Porušení odst. 4 zakládá:
 >
 > *(1) Uvolněnému členovi zastupitelstva obce poskytuje obec za výkon funkce odměnu ve výši podle § 73 odst. 1. Odměna se poskytuje ode dne zvolení do funkce, již zastupitelstvo obce určilo jako funkci, pro kterou budou členové zastupitelstva obce uvolněni, nejdříve však ode dne, od kterého ji zastupitelstvo obce jako takovou funkci určilo. Uvolněnému členovi zastupitelstva obce, který je poslancem, senátorem nebo členem vlády, poskytuje obec odměnu ve výši 0,4násobku výše odměny, která by jinak náležela uvolněnému členovi zastupitelstva obce. Je-li uvolněný člen zastupitelstva obce zároveň členem zastupitelstva kraje nebo hlavního města Prahy podle jiného právního předpisu, poskytne mu odměnu v plné výši pouze ten samosprávný celek, který by mu jako členovi zastupitelstva poskytoval odměnu vyšší. Druhý z obou samosprávných celků, jehož zastupitelstva je členem, mu poskytne odměnu ve výši 0,4násobku výše odměny, kterou by mu jinak jako členovi zastupitelstva poskytoval.*
 >
-> *(2) Neuvolněnému členovi zastupitelstva obce může obec poskytovat za výkon funkce odměnu až do maximální výše podle § 73 odst. 2. (...) Neuvolněnému členovi zastupitelstva obce vykonávajícímu funkci starosty (primátora) nebo místostarosty (náměstka primátora), který je zároveň poslancem, senátorem nebo členem vlády, může obec poskytovat odměnu nejvýše ve výši 0,4násobku výše odměny, která by mu jinak jako neuvolněnému členovi zastupitelstva obce při výkonu těchto funkcí náležela.*
+> *(2) Neuvolněnému členovi zastupitelstva obce může obec poskytovat za výkon funkce odměnu až do maximální výše podle § 73 odst. 2. V takovém případě se odměna poskytuje ode dne stanoveného zastupitelstvem obce, nejdříve však ode dne přijetí usnesení zastupitelstva obce, kterým odměnu stanovilo. Je-li neuvolněný člen zastupitelstva obce, který vykonává funkci starosty (primátora) nebo místostarosty (náměstka primátora), zároveň členem zastupitelstva kraje nebo hlavního města Prahy podle jiného právního předpisu, poskytne mu odměnu v plné výši pouze ten samosprávný celek, který by mu jako členovi zastupitelstva poskytoval odměnu vyšší. Druhý z obou samosprávných celků, jehož zastupitelstva je členem, mu poskytne odměnu ve výši 0,4násobku výše odměny, kterou by mu jinak jako členovi zastupitelstva poskytoval. Neuvolněnému členovi zastupitelstva obce vykonávajícímu funkci starosty (primátora) nebo místostarosty (náměstka primátora), který je zároveň poslancem, senátorem nebo členem vlády, může obec poskytovat odměnu nejvýše ve výši 0,4násobku výše odměny, která by mu jinak jako neuvolněnému členovi zastupitelstva obce při výkonu těchto funkcí náležela.*
 >
-> *(3)–(9) [zkráceno — pravidla pro snižování odměn za nemoc, karanténu, mateřskou, nepřítomnost; poměrné krácení za neúplný měsíc]*
+> *(3) V usnesení podle odstavce 2 zastupitelstvo obce stanoví výši odměn neuvolněným členům zastupitelstva obce za měsíc, a to částkou v celých korunách, přitom může přihlédnout k plnění individuálních úkolů, které jednotlivým neuvolněným členům zastupitelstva obce uložilo, a předem stanoveným způsobem k jejich účasti na jednání orgánů, jejichž jsou členy. Usnesení podle odstavce 2 pozbývá účinnosti ukončením funkčního období zastupitelstva obce, které odměnu stanovilo.*
+>
+> *(4) Neuvolněnému členovi zastupitelstva obce, který vykonává funkci starosty, poskytuje obec odměnu v rozmezí od 0,3 do 0,6násobku výše odměny, která by náležela uvolněnému členovi zastupitelstva obce, který vykonává funkci starosty. Pokud zastupitelstvo obce neuvolněnému členovi zastupitelstva obce, který vykonává funkci starosty, odměnu nestanovilo, náleží mu ode dne zvolení do funkce starosty odměna ve výši 0,3násobku výše odměny, která by náležela uvolněnému členovi zastupitelstva obce, který vykonává funkci starosty.*
+>
+> *(5) Odměna se členovi zastupitelstva obce poskytuje měsíčně. Pokud člen zastupitelstva obce vykonával funkci jen po část měsíce, náleží mu za tento měsíc odměna ve výši násobku jedné třicetiny jeho odměny a počtu kalendářních dnů, po které funkci v daném měsíci vykonával.*
+>
+> *(6) Je-li člen zastupitelstva obce odvolán z funkce nebo se funkce vzdal a v tentýž den je zvolen do jiné funkce, za kterou mu náleží odměna, náleží mu za tento den pouze ta z odměn, která je vyšší. V případě souhrnu odměn podle § 74 odst. 3 je pro posouzení výše odměn rozhodná výše souhrnné odměny, o níž rozhodlo zastupitelstvo obce.*
+>
+> *(7) Nevykonává-li uvolněný člen zastupitelstva obce funkci z důvodu dočasné pracovní neschopnosti, nařízené karantény, těhotenství a mateřství, péče o dítě do 4 let věku anebo ošetřování fyzické osoby nebo péče o dítě mladší 10 let podle zákona o nemocenském pojištění, odměna mu nenáleží, nestanoví-li tento zákon jinak.*
+>
+> *(8) Uvolněnému členovi zastupitelstva obce za každý kalendářní den od prvního do čtrnáctého kalendářního dne dočasné pracovní neschopnosti nebo karantény náleží odměna ve výši 60 % jedné třicetiny odměny. Pro účely stanovení výše odměny ve snížené výši podle věty první se jedna třicetina odměny upraví obdobným způsobem, jakým se upravuje denní vyměřovací základ pro stanovení nemocenského z nemocenského pojištění51).*
+>
+> *(9) Odměna stanovená podle odstavce 8 se snižuje o 50 %, pokud se nemocenské podle právních předpisů o nemocenském pojištění snižuje na polovinu. Odměna ve snížené výši stanovená podle odstavce 8 a podle věty první za jednotlivý kalendářní den se zaokrouhluje na celé koruny nahoru.*
 
 **Výklad:**
 
@@ -286,7 +298,15 @@ Tato úprava odráží paralelismus se zákoníkem práce a nemocenským pojišt
 >
 > *(4) Výši základny pro výpočet odměny podle odstavce 3 vyhlašuje Ministerstvo vnitra sdělením ve Sbírce zákonů a mezinárodních smluv.*
 >
-> *(5)–(7) [zkráceno — počet obyvatel, změna velikostní kategorie, zaokrouhlování]*
+> *(5) Při určení výše odměny člena zastupitelstva obce se vychází z počtu obyvatel obce52), kteří byli hlášeni v obci k trvalému pobytu k 1. lednu kalendářního roku, ve kterém se konaly volby do zastupitelstva obce.*
+>
+> *(6) Změní-li se v průběhu volebního období zastupitelstva obce počet obyvatel obce hlášených v obci k trvalému pobytu k 1. lednu kalendářního roku ve srovnání s rozhodným počtem obyvatel podle odstavce 5 o více než 20 % tak, že dojde ke změně zařazení obce ve velikostní kategorii obcí podle přílohy k tomuto zákonu, náleží od 1. ledna tohoto kalendářního roku*
+>
+> *- a) uvolněnému členovi zastupitelstva obce odměna ve výši odpovídající velikostní kategorii obce,*
+>
+> *- b) neuvolněnému členovi zastupitelstva obce dosavadní odměna, pokud nepřesahuje maximální výši odměny pro příslušnou velikostní kategorii obce, jinak mu přísluší odměna v maximální výši.*
+>
+> *(7) Odměna se zaokrouhluje na celé koruny nahoru.*
 
 **Výklad:**
 
@@ -325,11 +345,11 @@ Pravidlo brání jak neoprávněnému obohacení (obec ztratila čtvrtinu obyvat
 
 > **§ 74**
 >
-> *(1) Neuvolněnému členovi zastupitelstva obce, který je oprávněn k přijímání projevu vůle snoubenců, že spolu vstupují do manželství, může zastupitelstvo obce s přihlédnutím k časové náročnosti a četnosti obřadů zvýšit odměnu až o 2 000 Kč nad maximální výši odměny stanovenou za výkon jeho funkce podle tohoto zákona. Neuvolněnému členovi zastupitelstva obce, který je pověřen řízením obecní policie, může zastupitelstvo obce s přihlédnutím k časové náročnosti této činnosti zvýšit odměnu až o 2 000 Kč nad maximální výši odměny stanovenou za výkon jeho funkce podle tohoto zákona.*
+> *(1) Neuvolněnému členovi zastupitelstva obce, který je oprávněn k přijímání projevu vůle snoubenců, že spolu vstupují do manželství53), může zastupitelstvo obce s přihlédnutím k časové náročnosti a četnosti obřadů zvýšit odměnu až o 2 000 Kč nad maximální výši odměny stanovenou za výkon jeho funkce podle tohoto zákona. Neuvolněnému členovi zastupitelstva obce, který je pověřen řízením obecní policie54), může zastupitelstvo obce s přihlédnutím k časové náročnosti této činnosti zvýšit odměnu až o 2 000 Kč nad maximální výši odměny stanovenou za výkon jeho funkce podle tohoto zákona.*
 >
 > *(2) V případě souběhu výkonu více funkcí náleží uvolněnému členovi zastupitelstva obce odměna za tu z jeho funkcí, za kterou náleží nejvyšší odměna.*
 >
-> *(3) V případě souběhu výkonu více funkcí může být neuvolněnému členovi zastupitelstva obce poskytnuta odměna až do výše souhrnu odměn za tři různé funkce. (...)*
+> *(3) V případě souběhu výkonu více funkcí může být neuvolněnému členovi zastupitelstva obce poskytnuta odměna až do výše souhrnu odměn za tři různé funkce. Do tohoto souhrnu lze zahrnout pouze odměny za výkon funkce člena rady obce, předsedy nebo člena výboru zastupitelstva obce, předsedy nebo člena komise rady obce anebo předsedy nebo člena zvláštního orgánu obce. Pokud zastupitelstvo obce nerozhodne o poskytnutí odměny podle věty první, náleží neuvolněnému členovi zastupitelstva obce odměna za funkci, za kterou mu náleží nejvyšší odměna schválená zastupitelstvem obce.*
 
 **Výklad:**
 
@@ -416,15 +436,19 @@ Mimořádné odměny jsou typickým předmětem **soudního přezkumu** v rámci
 
 > **§ 77**
 >
-> *(1) Neuvolněnému členovi zastupitelstva obce, který vykonává funkci starosty nebo místostarosty, a uvolněnému členovi zastupitelstva obce, jimž zanikl mandát člena zastupitelstva obce, poskytne obec odchodné, pokud jim ke dni zániku mandátu člena zastupitelstva obce náležela odměna. (...)*
+> *(1) Neuvolněnému členovi zastupitelstva obce, který vykonává funkci starosty nebo místostarosty, a uvolněnému členovi zastupitelstva obce, jimž zanikl mandát člena zastupitelstva obce, poskytne obec odchodné, pokud jim ke dni zániku mandátu člena zastupitelstva obce náležela odměna. K případům nevyplácení odměny v rozhodný den z důvodů uvedených v § 72 odst. 7 se nepřihlíží.*
 >
-> *(2) Neuvolněnému členovi zastupitelstva obce, který vykonává funkci starosty nebo místostarosty, a uvolněnému členovi zastupitelstva obce, kteří byli v průběhu funkčního období odvoláni nebo se vzdali funkce, poskytne obec odchodné, pokud jim ke dni odvolání nebo vzdání se funkce náležela odměna. (...)*
+> *(2) Neuvolněnému členovi zastupitelstva obce, který vykonává funkci starosty nebo místostarosty, a uvolněnému členovi zastupitelstva obce, kteří byli v průběhu funkčního období odvoláni nebo se vzdali funkce, poskytne obec odchodné, pokud jim ke dni odvolání nebo vzdání se funkce náležela odměna. K případům nevyplácení odměny v rozhodný den z důvodů uvedených v § 72 odst. 7 se nepřihlíží.*
 >
-> *(3)–(4) [zkráceno — výluky: opětovné zvolení]*
+> *(3) Odchodné podle odstavce 1 při zániku mandátu člena zastupitelstva obce dnem voleb do zastupitelstva obce členovi zastupitelstva obce nenáleží, pokud byl v novém funkčním období opětovně zvolen do funkce uvolněného člena zastupitelstva obce nebo do funkce neuvolněného člena zastupitelstva obce, který vykonává funkci starosty nebo místostarosty, za niž mu náleží odměna. O opětovné zvolení do funkce podle věty první nejde, jde-li o druhé a následující obsazení uvedené funkce v průběhu funkčního období.*
+>
+> *(4) Odchodné podle odstavce 2 členovi zastupitelstva obce nenáleží, pokud byl nejpozději na následujícím zasedání zastupitelstva obce opětovně zvolen do funkce uvolněného člena zastupitelstva obce nebo do funkce neuvolněného člena zastupitelstva obce, který vykonává funkci starosty nebo místostarosty, za niž mu náleží odměna.*
 >
 > *(5) Odchodné členovi zastupitelstva obce nenáleží, pokud byl v průběhu výkonu funkce pravomocně odsouzen pro úmyslný trestný čin nebo pro nedbalostní trestný čin spáchaný v souvislosti s výkonem funkce člena zastupitelstva obce, jeho trestní stíhání pro takový trestný čin bylo podmíněně zastaveno nebo bylo rozhodnuto o schválení narovnání a zastavení trestního stíhání.*
 >
-> *(6)–(7) [zkráceno — pozastavení vyplácení během trestního řízení; jednorázové odchodné na funkční období]*
+> *(6) Vznikl-li členovi zastupitelstva obce nárok na odchodné v době, kdy je proti němu vedeno trestní stíhání pro úmyslný trestný čin nebo pro nedbalostní trestný čin spáchaný v souvislosti s výkonem funkce člena zastupitelstva obce, odchodné se nevyplatí. Byl-li člen zastupitelstva obce pro trestný čin uvedený ve větě první pravomocně odsouzen, jeho trestní stíhání bylo podmíněně zastaveno nebo bylo-li rozhodnuto o schválení narovnání a zastavení trestního stíhání, platí, že nárok na odchodné nevznikl; v opačném případě se odchodné vyplatí.*
+>
+> *(7) Odchodné podle odstavce 2 lze členovi zastupitelstva obce poskytnout ve funkčním období pouze jednou.*
 
 **Výklad:**
 
@@ -456,9 +480,9 @@ Odchodné podle odst. 2 lze poskytnout maximálně jedenkrát za funkční obdob
 
 > **§ 78**
 >
-> *(1) Odchodné se stanoví ve výši odměny, která členovi zastupitelstva obce náležela za měsíc ke dni zániku mandátu člena zastupitelstva obce nebo ke dni odvolání nebo vzdání se funkce, k níž se přičte násobek této částky a počtu celých ukončených po sobě jdoucích let výkonu funkce, nejvíce však tří ukončených let výkonu funkce. (...)*
+> *(1) Odchodné se stanoví ve výši odměny, která členovi zastupitelstva obce náležela za měsíc ke dni zániku mandátu člena zastupitelstva obce nebo ke dni odvolání nebo vzdání se funkce, k níž se přičte násobek této částky a počtu celých ukončených po sobě jdoucích let výkonu funkce, nejvíce však tří ukončených let výkonu funkce. Do rozhodné doby podle věty první se započte i doba, po kterou člen zastupitelstva obce podle § 77 odst. 3 nebo 4 do opětovného zvolení do funkce nevykonával funkci uvolněného člena zastupitelstva obce nebo funkci neuvolněného člena zastupitelstva obce, který vykonává funkci starosty nebo místostarosty.*
 >
-> *(2) Odchodné je splatné, jsou-li splněny podmínky stanovené v § 77 a předloženo čestné prohlášení podle odstavce 3, a vyplácí se jednorázově v nejbližším výplatním termínu. (...)*
+> *(2) Odchodné je splatné, jsou-li splněny podmínky stanovené v § 77 a předloženo čestné prohlášení podle odstavce 3, a vyplácí se jednorázově v nejbližším výplatním termínu. Pokud do 3 měsíců nenastala překážka pro nárok na odchodné podle § 77 odst. 3 a 4, odchodné se vyplatí. Člen zastupitelstva obce, jemuž bylo vyplaceno odchodné podle věty první, je povinen vyplacené odchodné vrátit, jestliže následně nastaly překážky pro nárok na odchodné podle § 77 odst. 3 a 4.*
 >
 > *(3) Člen zastupitelstva obce je povinen předložit čestné prohlášení, že u něj nejsou dány překážky pro výplatu odchodného stanovené v § 77 odst. 5 a 6.*
 
@@ -606,13 +630,23 @@ Zastupitelé často používají vlastní notebook, telefon, tiskárnu pro plně
 
 > **§ 81a**
 >
-> *(1) Uvolněný člen zastupitelstva obce má nárok na dovolenou v délce 5 týdnů za kalendářní rok, přičemž nejvýše 25 dnů dovolené může připadnout na pondělí až pátek, pokud tento den není svátkem.*
+> *(1) Uvolněný člen zastupitelstva obce má nárok na dovolenou v délce 5 týdnů za kalendářní rok, přičemž nejvýše 25 dnů dovolené může připadnout na pondělí až pátek, pokud tento den není svátkem56).*
 >
 > *(2) Pokud výkon funkce uvolněného člena zastupitelstva obce netrvá po dobu celého kalendářního roku, má nárok na poměrnou část dovolené, která činí za každý i započatý kalendářní měsíc výkonu funkce jednu dvanáctinu dovolené za kalendářní rok.*
 >
 > *(3) Odměna se za dobu čerpání dovolené nekrátí.*
 >
-> *(4)–(9) [zkráceno — převoditelnost, čerpání, evidence, náhrada nevyčerpané dovolené]*
+> *(4) Obec poskytne uvolněnému členovi zastupitelstva obce též tu část dovolené, kterou nevyčerpal u svého zaměstnavatele před uvolněním k výkonu veřejné funkce.*
+>
+> *(5) Nevyčerpal-li uvolněný člen zastupitelstva obce dovolenou nebo její část v průběhu příslušného kalendářního roku, převádí se mu nárok na ni do bezprostředně následujícího kalendářního roku, v němž se eviduje jako nevyčerpaná dovolená z předchozího kalendářního roku a čerpá se přednostně. Do dalšího kalendářního roku se již tento nárok nepřevádí.*
+>
+> *(6) Nevyčerpal-li uvolněný člen zastupitelstva obce ke dni ukončení výkonu funkce poměrnou část dovolené podle odstavce 2 za kalendářní rok, ve kterém došlo k ukončení uvolnění pro výkon funkce, poskytne mu obec náhradu za nevyčerpanou dovolenou. Nevyčerpaná dovolená z předchozího kalendářního roku se nenahrazuje ani nepřevádí.*
+>
+> *(7) Náhrada za nevyčerpanou dovolenou podle odstavce 6 se určí jako násobek počtu kalendářních dnů, za které je poskytována, a jedné třicetiny odměny, která náleží uvolněnému členovi zastupitelstva obce ke dni ukončení výkonu funkce.*
+>
+> *(8) Vyčerpal-li uvolněný člen zastupitelstva obce dovolenou v rozsahu větším, než mu náleží podle odstavců 1 až 5, posuzuje se odměna za každý den čerpání dovolené nad rámec zákonného nároku jako přeplatek poskytnuté odměny.*
+>
+> *(9) Obecní úřad vede evidenci o čerpání dovolené uvolněných členů zastupitelstva obce. Člen zastupitelstva obce oznámí předem čerpání dovolené obecnímu úřadu prostřednictvím starosty.*
 
 **Výklad:**
 
@@ -763,11 +797,11 @@ Co § 83 odst. 2 **nezakazuje**:
 >
 > *- d) zřizovat a rušit příspěvkové organizace a organizační složky obce, schvalovat jejich zřizovací listiny,*
 >
-> *- e) rozhodovat o založení nebo rušení právnických osob, schvalovat jejich zakladatelské listiny, společenské smlouvy, zakládací smlouvy a stanovy, včetně jejich změn, a rozhodovat o účasti v již založených právnických osobách,*
+> *- e) rozhodovat o založení nebo rušení právnických osob, schvalovat jejich zakladatelské listiny, společenské smlouvy, zakládací smlouvy a stanovy, včetně jejich změn, a rozhodovat o účasti v již založených právnických osobách,29)*
 >
 > *- f) delegovat zástupce obce, s výjimkou § 102 odst. 2 písm. c), na valnou hromadu obchodních společností, v nichž má obec majetkovou účast,*
 >
-> *- g) navrhovat zástupce obce do ostatních orgánů obchodních společností, v nichž má obec majetkovou účast, (...)*
+> *- g) navrhovat zástupce obce do ostatních orgánů obchodních společností, v nichž má obec majetkovou účast, a navrhovat jejich odvolání; to neplatí, rozhoduje-li rada obce ve věcech jediného společníka obchodní společnosti podle § 102 odst. 2 písm. c),*
 >
 > *- h) vydávat obecně závazné vyhlášky obce,*
 >
@@ -799,7 +833,7 @@ Co § 83 odst. 2 **nezakazuje**:
 >
 > *- v) rozhodovat o peněžitých plněních poskytovaných fyzickým osobám, které nejsou členy zastupitelstva obce, za výkon funkce členů výborů, komisí a zvláštních orgánů obce,*
 >
-> *- x) rozhodovat o zřízení, sloučení, splynutí, rozdělení a zrušení veřejného neziskového ústavního zdravotnického zařízení (...)*
+> *- x) rozhodovat o zřízení, sloučení, splynutí, rozdělení a zrušení veřejného neziskového ústavního zdravotnického zařízení, navrhovat zástupce do jeho dozorčí rady a rozhodovat o převodu vlastnického práva k majetku, s nímž hospodaří veřejné neziskové ústavní zdravotnické zařízení nebo o jeho pronájmu v případech, kdy to stanoví zvláštní právní předpis29a),*
 >
 > *- y) plnit úkoly stanovené zvláštním právním předpisem.*
 >
@@ -891,9 +925,9 @@ Zastupitelstvo rozhoduje o **zrušení usnesení rady**, je-li mu věc předlož
 >
 > *- b) poskytování věcných darů v hodnotě nad 100 000 Kč a peněžitých darů ve výši nad 100 000 Kč fyzické nebo právnické osobě v jednom kalendářním roce,*
 >
-> *- c) poskytování dotací a návratných finančních výpomocí nad 250 000 Kč v jednotlivém případě fyzickým nebo právnickým osobám a uzavření veřejnoprávních smluv o jejich poskytnutí, (...)*
+> *- c) poskytování dotací a návratných finančních výpomocí nad 250 000 Kč v jednotlivém případě fyzickým nebo právnickým osobám a uzavření veřejnoprávních smluv o jejich poskytnutí, nejedná-li se o návratné finanční výpomoci příspěvkovým organizacím zřízeným obcí nebo o dotace nebo návratné finanční výpomoci poskytované v době trvání krizového stavu43), mimořádného opatření při epidemii nebo nebezpečí jejího vzniku nebo mimořádného veterinárního opatření a v souvislosti s nimi,*
 >
-> *- d) uzavření smlouvy o společnosti a poskytování majetkových hodnot podle smlouvy o společnosti, jejíž je obec společníkem,*
+> *- d) uzavření smlouvy o společnosti44) a poskytování majetkových hodnot podle smlouvy o společnosti44), jejíž je obec společníkem,*
 >
 > *- e) peněžité i nepeněžité vklady do právnických osob,*
 >
@@ -905,7 +939,7 @@ Zastupitelstvo rozhoduje o **zrušení usnesení rady**, je-li mu věc předlož
 >
 > *- i) postoupení pohledávky vyšší než 100 000 Kč,*
 >
-> *- j) uzavření smlouvy o přijetí a poskytnutí úvěru nebo zápůjčky, o převzetí dluhu, o převzetí ručitelského závazku (...), o přistoupení k závazku a smlouvy o společnosti,*
+> *- j) uzavření smlouvy o přijetí a poskytnutí úvěru nebo zápůjčky, o převzetí dluhu, o převzetí ručitelského závazku s výjimkou převzetí ručitelského závazku na základě smlouvy o spolupráci podle zákona o podpoře bydlení, o přistoupení k závazku a smlouvy o společnosti44),*
 >
 > *- k) zastavení nemovitých věcí,*
 >
@@ -1064,7 +1098,7 @@ Smyslem výjimek je **udržet obec v chodu** — personální obnova, finanční
 >
 > *(1) Ustavující zasedání nově zvoleného zastupitelstva obce svolává dosavadní starosta po uplynutí lhůty pro podání návrhu soudu na neplatnost voleb nebo neplatnost hlasování tak, aby se konalo do 15 dnů ode dne uplynutí této lhůty, a jestliže byl návrh na neplatnost voleb nebo na neplatnost hlasování podán, do 15 dnů ode dne právní moci rozhodnutí soudu o posledním z podaných návrhů, pokud žádnému z podaných návrhů nebylo vyhověno. Ustavujícímu zasedání předsedá zpravidla dosavadní starosta, případně nejstarší člen zastupitelstva obce do doby, než je zvolen starosta nebo místostarosta. Na ustavujícím zasedání zastupitelstva obce se volí starosta, místostarosta a další členové rady obce.*
 >
-> *(2) Jestliže se ustavující zasedání nově zvoleného zastupitelstva obce nekonalo ve lhůtě podle odstavce 1, svolá je po uplynutí této lhůty Ministerstvo vnitra, ledaže soud vyhověl návrhu na neplatnost voleb nebo na neplatnost hlasování. (...)*
+> *(2) Jestliže se ustavující zasedání nově zvoleného zastupitelstva obce nekonalo ve lhůtě podle odstavce 1, svolá je po uplynutí této lhůty Ministerstvo vnitra, ledaže soud vyhověl návrhu na neplatnost voleb nebo na neplatnost hlasování. Informaci o svolání ustavujícího zasedání zastupitelstva obce zveřejní Ministerstvo vnitra v rozsahu stanoveném v § 93 po dobu v tomto ustanovení stanovenou na své úřední desce.*
 
 **Výklad:**
 
@@ -1157,9 +1191,9 @@ I občané (veřejnost) mohou účastnit zasedání distančně — typicky pře
 
 > **§ 93**
 >
-> *(1) Obecní úřad informuje o místě, době a navrženém programu připravovaného zasedání zastupitelstva obce. Informaci vyvěsí na úřední desce obecního úřadu alespoň 7 dní před zasedáním zastupitelstva obce; kromě toho může informaci uveřejnit způsobem v místě obvyklým.*
+> *(1) Obecní úřad informuje o místě, době a navrženém programu připravovaného zasedání zastupitelstva obce. Informaci vyvěsí na úřední desce3b) obecního úřadu alespoň 7 dní před zasedáním zastupitelstva obce; kromě toho může informaci uveřejnit způsobem v místě obvyklým.*
 >
-> *(2) Je-li nezbytné konat zasedání zastupitelstva obce v souvislosti s řešením mimořádné události (...), zveřejní se informace o místě, době a navrženém programu připravovaného zasedání zastupitelstva obce podle odstavce 1 na úřední desce obecního úřadu alespoň po dobu 2 dnů před zasedáním zastupitelstva obce. Záležitosti, které se netýkají řešení situací uvedených ve větě první, mohou být na tomto zasedání projednávány pouze tehdy, jestliže byla informace zveřejněna alespoň 7 dnů před zasedáním zastupitelstva obce.*
+> *(2) Je-li nezbytné konat zasedání zastupitelstva obce v souvislosti s řešením mimořádné události podle zákona o integrovaném záchranném systému60), k zabránění jejího vzniku nebo k odstraňování jejích následků, anebo jestliže se na území obce vztahuje krizový stav43), mimořádné opatření při epidemii nebo nebezpečí jejího vzniku nebo mimořádné veterinární opatření, zveřejní se informace o místě, době a navrženém programu připravovaného zasedání zastupitelstva obce podle odstavce 1 na úřední desce obecního úřadu alespoň po dobu 2 dnů před zasedáním zastupitelstva obce. Záležitosti, které se netýkají řešení situací uvedených ve větě první, mohou být na tomto zasedání projednávány pouze tehdy, jestliže byla informace zveřejněna alespoň 7 dnů před zasedáním zastupitelstva obce.*
 >
 > *(3) Zasedání zastupitelstva obce je veřejné.*
 >
@@ -1425,9 +1459,9 @@ Specifické: rada má více než 1/3 zastupitelů, ale **zastupitelstvo má stá
 >
 > *(2) Rada obce je schopna se usnášet, je-li přítomna nadpoloviční většina všech jejích členů; k platnému usnesení nebo rozhodnutí je třeba souhlasu nadpoloviční většiny všech jejích členů.*
 >
-> *(3) Stanoví-li tak předem jednací řád rady obce, může se člen rady obce nebo jiná oprávněná osoba zúčastnit schůze rady obce též distančním způsobem (...).*
+> *(3) Stanoví-li tak předem jednací řád rady obce, může se člen rady obce nebo jiná oprávněná osoba zúčastnit schůze rady obce též distančním způsobem s využitím technického zařízení pro přenos obrazu a zvuku, pokud umožňuje uplatňovat zákonná práva spojená s účastí na schůzi. Jednací řád stanoví pravidla účasti na schůzi rady obce distančním způsobem. Člen rady obce má vždy právo účastnit se schůze rady obce osobně v místě, v němž se schůze rady obce koná.*
 >
-> *(4) Rada obce pořizuje ze své schůze zápis, který podepisuje starosta spolu s místostarostou nebo jiným radním. (...) Zápis ze schůze rady obce musí být uložen u obecního úřadu k nahlédnutí členům zastupitelstva obce.*
+> *(4) Rada obce pořizuje ze své schůze zápis, který podepisuje starosta spolu s místostarostou nebo jiným radním. V zápise se vždy uvede počet přítomných členů rady obce, schválený pořad schůze rady obce, průběh a výsledek hlasování a přijatá usnesení. Zápis ze schůze rady obce musí být pořízen do 15 dnů od jejího konání. O námitkách člena rady obce proti zápisu rozhodne nejbližší schůze rady obce. Zápis ze schůze rady obce musí být uložen u obecního úřadu k nahlédnutí členům zastupitelstva obce.*
 >
 > *(5) Rada obce vydá jednací řád, v němž stanoví podrobnosti o jednání rady obce.*
 

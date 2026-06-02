@@ -589,11 +589,11 @@ Odst. 3 rozšiřuje participativní a iniciativní práva (písm. c–g) na **vl
 >
 > *(3) Obec se může na základě dohody připojit k jiné obci, se kterou sousedí.*
 >
-> *(4) Dohodu o sloučení obcí nebo o připojení obce lze uzavřít na základě rozhodnutí zastupitelstev dotčených obcí, pokud do 30 dnů od zveřejnění tohoto rozhodnutí není podán návrh na konání místního referenda o této věci.8) Je-li podán takový návrh, je k uzavření dohody o sloučení obcí nebo o připojení obce nutné souhlasné rozhodnutí místního referenda konaného v obci, ve které byl podán návrh na jeho konání. (...)*
+> *(4) Dohodu o sloučení obcí nebo o připojení obce lze uzavřít na základě rozhodnutí zastupitelstev dotčených obcí, pokud do 30 dnů od zveřejnění tohoto rozhodnutí není podán návrh na konání místního referenda o této věci.8) Je-li podán takový návrh, je k uzavření dohody o sloučení obcí nebo o připojení obce nutné souhlasné rozhodnutí místního referenda konaného v obci, ve které byl podán návrh na jeho konání. Dotčené obce oznámí krajskému úřadu rozhodnutí svých zastupitelstev, na jejichž základě má být uzavřena dohoda o sloučení obcí nebo o připojení obce. Je-li konáno místní referendum o sloučení obcí nebo o připojení obce, oznámí dotčené obce i rozhodnutí přijaté v místním referendu.*
 >
 > *(5) Dohoda o sloučení obcí nebo připojení obce musí obsahovat:* den; název obce a sídlo orgánů; právní předpisy přebrané z původních obcí; výčet katastrálních území; určení majetku, práv, závazků, právnických osob a organizačních složek.
 >
-> *(6) Právním nástupcem sloučených nebo připojených obcí je obec vzniklá jejich sloučením nebo obec, která při připojení obce nezaniká. (...)*
+> *(6) Právním nástupcem sloučených nebo připojených obcí je obec vzniklá jejich sloučením nebo obec, která při připojení obce nezaniká. Tato obec se stává příjemcem výnosu daní podle zvláštního zákona, které by jinak podle zvláštních právních předpisů připadly zaniklé obci. Na tuto obec přechází též majetek, včetně finančních prostředků zaniklých obcí, ostatní práva a závazky těchto obcí, včetně jejich práva zakladatele a zřizovatele právnických osob, a dále organizační složky těchto obcí, a to dnem, ke kterému se obce slučují nebo se obec připojuje. Nově vzniklá obec nebo obec, která při připojení nezanikla, zašle opis dohody Ministerstvu vnitra, Ministerstvu financí, Českému úřadu zeměměřickému a katastrálnímu, příslušnému katastrálnímu úřadu a příslušnému finančnímu úřadu.*
 >
 > **§ 20** — městské obvody/části ve statutárním městě (zřizování, zrušení, připojení) — viz výklad k § 4.
 >
@@ -917,13 +917,13 @@ Obec má povinnost aktivně chránit svá majetková práva — uplatňovat náh
 
 > **§ 39**
 >
-> *(1) Záměr obce prodat, směnit, darovat, pronajmout, propachtovat nebo vypůjčit hmotnou nemovitou věc nebo právo stavby anebo je přenechat jako výprosu a záměr obce smluvně zřídit právo stavby k pozemku ve vlastnictví obce obec zveřejní po dobu nejméně 15 dnů před rozhodnutím v příslušném orgánu obce vyvěšením na úřední desce obecního úřadu, aby se k němu mohli zájemci vyjádřit a předložit své nabídky. Záměr může obec též zveřejnit způsobem v místě obvyklým. Pokud obec záměr nezveřejní, je právní jednání neplatné. Nemovitá věc se v záměru označí údaji podle zvláštního zákona platnými ke dni zveřejnění záměru.*
+> *(1) Záměr obce prodat, směnit, darovat, pronajmout, propachtovat nebo vypůjčit hmotnou nemovitou věc nebo právo stavby anebo je přenechat jako výprosu a záměr obce smluvně zřídit právo stavby k pozemku ve vlastnictví obce obec zveřejní po dobu nejméně 15 dnů před rozhodnutím v příslušném orgánu obce vyvěšením na úřední desce3b) obecního úřadu, aby se k němu mohli zájemci vyjádřit a předložit své nabídky. Záměr může obec též zveřejnit způsobem v místě obvyklým. Pokud obec záměr nezveřejní, je právní jednání neplatné. Nemovitá věc se v záměru označí údaji podle zvláštního zákona15a) platnými ke dni zveřejnění záměru.*
 >
 > *(2) Při úplatném převodu majetku se cena sjednává zpravidla ve výši, která je v daném místě a čase obvyklá, nejde-li o cenu regulovanou státem. Odchylka od ceny obvyklé musí být zdůvodněna, jde-li o cenu nižší než obvyklou. Není-li odchylka od ceny obvyklé zdůvodněna, je právní jednání neplatné.*
 >
-> *(3) Ustanovení odstavce 1 se nepoužije, jde-li o pronájem bytů nebo hrobových míst anebo o pronájem, pacht nebo výpůjčku majetku obce na dobu kratší než 30 dnů nebo jde-li o pronájem, pacht, výprosu nebo výpůjčku právnické osobě zřízené nebo založené obcí nebo právnické osobě, kterou obec ovládá.*
+> *(3) Ustanovení odstavce 1 se nepoužije, jde-li o pronájem bytů nebo hrobových míst anebo o pronájem, pacht nebo výpůjčku majetku obce na dobu kratší než 30 dnů nebo jde-li o pronájem, pacht, výprosu nebo výpůjčku právnické osobě zřízené nebo založené obcí nebo právnické osobě, kterou obec ovládá49).*
 >
-> *(4) Odstavce 1 a 2 se nepoužijí v případě postupu podle § 39a až 39c a v případě zpětného převodu majetku státu (...).*
+> *(4) Odstavce 1 a 2 se nepoužijí v případě postupu podle § 39a až 39c a v případě zpětného převodu majetku státu podle § 21b odst. 3 písm. e) zákona o majetku České republiky a jejím vystupování v právních vztazích.*
 
 **Výklad:**
 
