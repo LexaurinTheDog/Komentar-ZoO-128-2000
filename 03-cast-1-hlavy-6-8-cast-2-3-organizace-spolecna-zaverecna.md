@@ -499,6 +499,11 @@ Hlava VIII se rozpadá na dvě roviny:
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 915/2012](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2013%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2013&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_915_2012.txt) — 21. 1. 2013, kat. A
+  > „Povinnost vrátit poskytnuté odstupné (jeho část) má zaměstnanec územně členěného statutárního města (s výjimkou hlavního města Prahy) zařazený do městské policie, který po skončení pracovního poměru výpovědí podle ustanovení § 52 písm. a) až d) zák. práce nebo dohodou uzavřenou z týchž důvodů, nastoupí v době, která byla rozhodující pro určení výše odstupného, do pracovního poměru v úřadu městské části téhož statutárního města jeho nástup je třeba z hlediska ustanovení § 68 zák. práce považovat za opětovný nástup k dosavadnímu zaměstnavateli (statutárnímu městu)"
+
 #### Statut jako obecně závazná vyhláška sui generis
 
 Statut je **obecně závazná vyhláška města** s tím rozdílem, že jeho obsah je z velké části předem stanoven zákonem (§ 130 písm. a)–j)). Statut není volnou normotvornou kreací města — město je vázáno povinným okruhem upravovaných záležitostí. Statut je vydáván zastupitelstvem města jako obecně závazná vyhláška podle § 84 odst. 2 písm. h) — vyžaduje schválení nadpoloviční většinou všech členů zastupitelstva města.
@@ -544,6 +549,11 @@ Statut jako obecně závazná vyhláška podléhá dozoru podle § 123 — Minis
 > *- d) výkon funkce zaměstnavatele pro zaměstnance zařazené do úřadu městského obvodu nebo úřadu městské části nebo organizační složky městského obvodu nebo městské části.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 915/2012](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2013%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2013&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_915_2012.txt) — 21. 1. 2013, kat. A
+  > „Povinnost vrátit poskytnuté odstupné (jeho část) má zaměstnanec územně členěného statutárního města (s výjimkou hlavního města Prahy) zařazený do městské policie, který po skončení pracovního poměru výpovědí podle ustanovení § 52 písm. a) až d) zák. práce nebo dohodou uzavřenou z týchž důvodů, nastoupí v době, která byla rozhodující pro určení výše odstupného, do pracovního poměru v úřadu městské části téhož statutárního města jeho nástup je třeba z hlediska ustanovení § 68 zák. práce považovat za opětovný nástup k dosavadnímu zaměstnavateli (statutárnímu městu)"
 
 #### Demonstrativní výčet svěřitelných záležitostí
 
@@ -648,6 +658,11 @@ Slova „za podmínek v něm stanovených" znamenají, že statut může pravomo
 > *(2) Městské obvody a městské části nemohou vydávat obecně závazné vyhlášky nebo nařízení.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 915/2012](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2013%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2013&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_915_2012.txt) — 21. 1. 2013, kat. A
+  > „Povinnost vrátit poskytnuté odstupné (jeho část) má zaměstnanec územně členěného statutárního města (s výjimkou hlavního města Prahy) zařazený do městské policie, který po skončení pracovního poměru výpovědí podle ustanovení § 52 písm. a) až d) zák. práce nebo dohodou uzavřenou z týchž důvodů, nastoupí v době, která byla rozhodující pro určení výše odstupného, do pracovního poměru v úřadu městské části téhož statutárního města jeho nástup je třeba z hlediska ustanovení § 68 zák. práce považovat za opětovný nástup k dosavadnímu zaměstnavateli (statutárnímu městu)"
 
 #### Jednání obvodu/části za město (odst. 1)
 
@@ -897,6 +912,11 @@ Subsidiarita je nezbytná — Hlava VIII je krátká (15 paragrafů) a zákon o 
 > *(4) Rozhodnutí orgánů měst Brno, Ostrava a Plzeň vydaná ve správním řízení, přezkoumává příslušný krajský úřad. Řízení o přezkoumání rozhodnutí16) orgánů těchto měst probíhající před příslušným ústředním správním úřadem a neskončená ke dni účinnosti tohoto ustanovení se dokončí podle dosavadních předpisů.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 796/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8CEF1F35089809A6C1257A4E0068A6BE?openDocument) — 31. 3. 2005, kat. A
+  > „Jestliže byla pachateli přestupku podle zákona č. 200/1990 Sb. ve znění pozdějších předpisů uložena povinnost nahradit poškozenému přestupkem způsobenou škodu, je poškozený nositelem práva z vydaného rozhodnutí a svědčí mu aktivní věcná legitimace v řízení o soudní výkon tohoto titulu tuto legitimaci naopak nemá vymáhající správní orgán"
 
 #### Působnost správního řádu (odst. 1)
 

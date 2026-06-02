@@ -22,6 +22,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 915/2012](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2013%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2013&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_915_2012.txt) — 21. 1. 2013, kat. A
+  > „Povinnost vrátit poskytnuté odstupné (jeho část) má zaměstnanec územně členěného statutárního města (s výjimkou hlavního města Prahy) zařazený do městské policie, který po skončení pracovního poměru výpovědí podle ustanovení § 52 písm. a) až d) zák. práce nebo dohodou uzavřenou z týchž důvodů, nastoupí v době, která byla rozhodující pro určení výše odstupného, do pracovního poměru v úřadu městské části téhož statutárního města jeho nástup je třeba z hlediska ustanovení § 68 zák. práce považovat za opětovný nástup k dosavadnímu zaměstnavateli (statutárnímu městu)"
+
 #### Ústavní zakotvení a legální definice
 
 § 1 ZoO obsahuje **legální definici obce** jako vstupní ustanovení celého obecního zřízení. Tato definice plně transponuje a operacionalizuje ústavní definici z **čl. 100 odst. 1 Ústavy**: „Územní samosprávné celky jsou územními společenstvími občanů, která mají právo na samosprávu." § 1 ZoO tuto ústavní formuli konkretizuje na úrovni obce a zdůrazňuje **trojici definičních znaků obce**:
@@ -59,6 +64,11 @@ Hranice obce je právní skutečností konstituující obec teritoriálně. Stan
 > *(2) Obec pečuje o všestranný rozvoj svého území a o potřeby svých občanů; při plnění svých úkolů chrání též veřejný zájem.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 915/2012](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2013%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2013&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_915_2012.txt) — 21. 1. 2013, kat. A
+  > „Povinnost vrátit poskytnuté odstupné (jeho část) má zaměstnanec územně členěného statutárního města (s výjimkou hlavního města Prahy) zařazený do městské policie, který po skončení pracovního poměru výpovědí podle ustanovení § 52 písm. a) až d) zák. práce nebo dohodou uzavřenou z týchž důvodů, nastoupí v době, která byla rozhodující pro určení výše odstupného, do pracovního poměru v úřadu městské části téhož statutárního města jeho nástup je třeba z hlediska ustanovení § 68 zák. práce považovat za opětovný nástup k dosavadnímu zaměstnavateli (statutárnímu městu)"
 
 #### Obec jako veřejnoprávní korporace (odst. 1) — klíčový pojem celého obecního zřízení
 
@@ -163,6 +173,11 @@ Odst. 6 stanoví **pravidla nástupnictví v statusu** při územních změnách
 > *(2) Území statutárních měst se může členit na městské obvody nebo městské části s vlastními orgány samosprávy.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 915/2012](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2013%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2013&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_915_2012.txt) — 21. 1. 2013, kat. A
+  > „Povinnost vrátit poskytnuté odstupné (jeho část) má zaměstnanec územně členěného statutárního města (s výjimkou hlavního města Prahy) zařazený do městské policie, který po skončení pracovního poměru výpovědí podle ustanovení § 52 písm. a) až d) zák. práce nebo dohodou uzavřenou z týchž důvodů, nastoupí v době, která byla rozhodující pro určení výše odstupného, do pracovního poměru v úřadu městské části téhož statutárního města jeho nástup je třeba z hlediska ustanovení § 68 zák. práce považovat za opětovný nástup k dosavadnímu zaměstnavateli (statutárnímu městu)"
 
 #### Taxativní katalog statutárních měst (odst. 1)
 
@@ -293,6 +308,11 @@ Podrobně viz výklad k § 61 a násl. níže.
 > *Pokud zvláštní zákon upravuje působnost obcí a nestanoví, že jde o přenesenou působnost obce, platí, že jde vždy o samostatnou působnost.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 3257/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/69C3CBB4FC4A1322C1257BDB00404A83?openDocument) — 20. 8. 2013, kat. A
+  > „Výkon rozhodnutí o uložení pokuty v přestupkovém řízení orgánem obce je výkonem přenesené působnosti. Za škodu nebo újmu způsobenou v rámci něho vydaným nezákonným rozhodnutím nebo nesprávným úředním postupem odpovídá stát podle zákona č. 82/1998 Sb"
 
 #### Interpretační pravidlo — pochybnostní pravidlo ve prospěch samosprávy
 
@@ -765,6 +785,11 @@ Tento rozdíl odráží různý charakter obou symbolů: znak je výsostným ozn
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [8 Co 148/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B0E1F7403A52AA14C1257BD600397FB4?openDocument) — 30. 3. 2004, kat. A
+  > „V řízení o žalobě obce na náhradu nákladů za přiložení a odstranění technických prostředků k zabránění odjezdu vozidla (§ 17a odst. 5 zákona č. 553/1991 Sb. ve znění pozdějších předpisů) je obec podle právní úpravy účinné od 12. listopadu 2000 (§ 35 odst. 1, § 61 zákona č. 128/2000 Sb. ve znění pozdějších předpisů) osobně osvobozena od placení soudního poplatku podle ustanovení § 11 odst. 2 písm. b/ zákona č. 549/1991 Sb. ve znění pozdějších předpisů"
+
 #### Generální klauzule samostatné působnosti (odst. 1) — klíčové kompetenční ustanovení
 
 § 35 odst. 1 obsahuje **generální klauzuli samostatné působnosti** — celkové vymezení toho, co je samosprávou obce. Tato klauzule je strukturována **negativně-pozitivně**:
@@ -880,6 +905,11 @@ Tato ustanovení formalizují **reprezentativní a slavnostní funkce** obce. Č
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 15/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/70585093C02A7946C125873C00188864?openDocument) — 27. 5. 2021, kat. A
+  > „Ukončila-li obec jednání o uzavření smlouvy vedené na základě řádně zveřejněného záměru pronajmout nemovitý obecní majetek z důvodu upřednostnění jiné nabídky nově zvoleným starostou a částí členů rady obce, má smluvní strana, která již důvodně předpokládala uzavření smlouvy, právo na náhradu škody"
+
 #### Zásada účelnosti a hospodárnosti (odst. 1)
 
 § 38 odst. 1 zakotvuje **klíčovou zásadu nakládání s obecním majetkem** — účelnost a hospodárnost. Tato zásada má **trojí obsah**:
@@ -927,6 +957,15 @@ Obec má povinnost aktivně chránit svá majetková práva — uplatňovat náh
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 15/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/70585093C02A7946C125873C00188864?openDocument) — 27. 5. 2021, kat. A
+  > „Ukončila-li obec jednání o uzavření smlouvy vedené na základě řádně zveřejněného záměru pronajmout nemovitý obecní majetek z důvodu upřednostnění jiné nabídky nově zvoleným starostou a částí členů rady obce, má smluvní strana, která již důvodně předpokládala uzavření smlouvy, právo na náhradu škody"
+- *NS* [28 Cdo 3950/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C53478A64FD8738C1257A4E0065ABD5?openDocument) — 15. 11. 2010, kat. A
+  > „Smlouva o úplatném převodu obecního majetku za cenu podstatně nižší, než je cena v místě a čase obvyklá, je bez náležitých důvodů pro tuto odchylku neplatná podle § 39 obč. zák., neboť svým obsahem odporuje zákonu (§ 39 odst. 2 zákona č. 128/2000 Sb., o obcích /obecní zřízení/, ve znění pozdějších předpisů)"
+- *NS* [30 Cdo 1250/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F8A9B9DDABDAE847C1257A4E0069A9DA?openDocument) — 27. 9. 2010, kat. A
+  > „Zamýšlí-li obec prodat část svého pozemku, je nezbytné, aby ve zveřejněném záměru byl uvedený pozemek, resp. jeho (k prodeji nabízená) část náležitým způsobem identifikována. Zveřejnění záměru obce o „prodeji části pozemku p. č. XY v k. ú. XY“ dostatečnou identifikací části pozemku není"
+
 #### Princip transparentnosti (odst. 1)
 
 § 39 odst. 1 zavádí **klíčové transparenční pravidlo** pro nakládání s nemovitým majetkem obce. Záměr musí být zveřejněn **15 dní před rozhodnutím** na úřední desce — aby se mohli zájemci hlásit a předložit nabídky. Účel:
@@ -968,6 +1007,11 @@ Tyto paragrafy (zavedené novelou) upravují **přednostní právo státu** na p
 **Doložka splnění podmínek (odst. 1):** Slouží k ochraně třetích osob jednajících s obcí. Doložka představuje **presumpci splnění** zákonných podmínek — kontrahent v dobré víře se může na doložku spolehnout. Tato presumpce je však **vyvratitelná**, ale v praxi je třetí osoba chráněna před skrytou vadou v interním rozhodování obce.
 
 **Absolutní neplatnost (odst. 2–3):** Právní jednání obce bez požadovaného schválení svým orgánem jsou **absolutně neplatná** a soud k tomu přihlíží i bez návrhu. Toto je výjimka z relativní neplatnosti dle § 586 OZ — chrání obecní majetek a samosprávné rozhodování. Stejně se zachází s porušením povinností v § 38 odst. 3 a § 39 odst. 1, 2.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 15/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/70585093C02A7946C125873C00188864?openDocument) — 27. 5. 2021, kat. A
+  > „Ukončila-li obec jednání o uzavření smlouvy vedené na základě řádně zveřejněného záměru pronajmout nemovitý obecní majetek z důvodu upřednostnění jiné nabídky nově zvoleným starostou a částí členů rady obce, má smluvní strana, která již důvodně předpokládala uzavření smlouvy, právo na náhradu škody"
 
 ---
 
@@ -1163,6 +1207,11 @@ Místní referendum se v ZoO objevuje jako conditio sine qua non nebo jako alter
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [8 Co 148/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B0E1F7403A52AA14C1257BD600397FB4?openDocument) — 30. 3. 2004, kat. A
+  > „V řízení o žalobě obce na náhradu nákladů za přiložení a odstranění technických prostředků k zabránění odjezdu vozidla (§ 17a odst. 5 zákona č. 553/1991 Sb. ve znění pozdějších předpisů) je obec podle právní úpravy účinné od 12. listopadu 2000 (§ 35 odst. 1, § 61 zákona č. 128/2000 Sb. ve znění pozdějších předpisů) osobně osvobozena od placení soudního poplatku podle ustanovení § 11 odst. 2 písm. b/ zákona č. 549/1991 Sb. ve znění pozdějších předpisů"
+
 #### Kategorizace obcí podle rozsahu přenesené působnosti (odst. 1) — systémové ustanovení
 
 § 61 odst. 1 zavádí **třístupňovou kategorizaci obcí** podle rozsahu přenesené působnosti, která je jednou z **nejvýznamnějších systémových charakteristik českého obecního zřízení**:
@@ -1286,5 +1335,4 @@ V praxi se oba nástroje doplňují podle potřeb obcí v ORP.
 > **Pozn. ke vztahu HLAV I–III k dalším částem ZoO:** Komentovaná kapitola zakládá **systémovou strukturu** obecního zřízení — definuje obec, vymezuje její působnost, kategorizuje obce, zavádí instituty mezi-obecní spolupráce. Konkrétní orgány obce (zastupitelstvo, rada, starosta, obecní úřad) a jejich pravomoci jsou upraveny v **HLAVĚ IV (§§ 67–122)**, hospodaření obce dále v zákoně č. 250/2000 Sb., dozor a kontrola obce v **HLAVĚ V–VI (§§ 123–129a)**, statut města a Praha mimo ZoO (zákon č. 131/2000 Sb.). Místní referendum je samostatně v zákoně č. 22/2004 Sb. Tyto materie tvoří navazující kapitoly komentáře.
 
 ---
-
 
