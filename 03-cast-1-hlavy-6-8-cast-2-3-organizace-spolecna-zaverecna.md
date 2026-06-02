@@ -498,12 +498,6 @@ Hlava VIII se rozpadá na dvě roviny:
 > *- j) další záležitosti, stanoví-li tak tento nebo zvláštní zákon.*
 
 **Výklad:**
-
-**Judikatura (z místních zdrojů):**
-
-- *NS* [21 Cdo 915/2012](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2013%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2013&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_915_2012.txt) — 21. 1. 2013, kat. A
-  > „Povinnost vrátit poskytnuté odstupné (jeho část) má zaměstnanec územně členěného statutárního města (s výjimkou hlavního města Prahy) zařazený do městské policie, který po skončení pracovního poměru výpovědí podle ustanovení § 52 písm. a) až d) zák. práce nebo dohodou uzavřenou z týchž důvodů, nastoupí v době, která byla rozhodující pro určení výše odstupného, do pracovního poměru v úřadu městské části téhož statutárního města jeho nástup je třeba z hlediska ustanovení § 68 zák. práce považovat za opětovný nástup k dosavadnímu zaměstnavateli (statutárnímu městu)"
-
 #### Statut jako obecně závazná vyhláška sui generis
 
 Statut je **obecně závazná vyhláška města** s tím rozdílem, že jeho obsah je z velké části předem stanoven zákonem (§ 130 písm. a)–j)). Statut není volnou normotvornou kreací města — město je vázáno povinným okruhem upravovaných záležitostí. Statut je vydáván zastupitelstvem města jako obecně závazná vyhláška podle § 84 odst. 2 písm. h) — vyžaduje schválení nadpoloviční většinou všech členů zastupitelstva města.
@@ -549,12 +543,6 @@ Statut jako obecně závazná vyhláška podléhá dozoru podle § 123 — Minis
 > *- d) výkon funkce zaměstnavatele pro zaměstnance zařazené do úřadu městského obvodu nebo úřadu městské části nebo organizační složky městského obvodu nebo městské části.*
 
 **Výklad:**
-
-**Judikatura (z místních zdrojů):**
-
-- *NS* [21 Cdo 915/2012](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2013%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2013&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_915_2012.txt) — 21. 1. 2013, kat. A
-  > „Povinnost vrátit poskytnuté odstupné (jeho část) má zaměstnanec územně členěného statutárního města (s výjimkou hlavního města Prahy) zařazený do městské policie, který po skončení pracovního poměru výpovědí podle ustanovení § 52 písm. a) až d) zák. práce nebo dohodou uzavřenou z týchž důvodů, nastoupí v době, která byla rozhodující pro určení výše odstupného, do pracovního poměru v úřadu městské části téhož statutárního města jeho nástup je třeba z hlediska ustanovení § 68 zák. práce považovat za opětovný nástup k dosavadnímu zaměstnavateli (statutárnímu městu)"
-
 #### Demonstrativní výčet svěřitelných záležitostí
 
 Výčet v § 131 je opět demonstrativní („**zejména**"). Statutární město může svěřit obvodu/části i další záležitosti samostatné působnosti, pokud zákon nevyhrazuje jejich rozhodování výlučně orgánům města.
@@ -658,12 +646,6 @@ Slova „za podmínek v něm stanovených" znamenají, že statut může pravomo
 > *(2) Městské obvody a městské části nemohou vydávat obecně závazné vyhlášky nebo nařízení.*
 
 **Výklad:**
-
-**Judikatura (z místních zdrojů):**
-
-- *NS* [21 Cdo 915/2012](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2013%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2013&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_915_2012.txt) — 21. 1. 2013, kat. A
-  > „Povinnost vrátit poskytnuté odstupné (jeho část) má zaměstnanec územně členěného statutárního města (s výjimkou hlavního města Prahy) zařazený do městské policie, který po skončení pracovního poměru výpovědí podle ustanovení § 52 písm. a) až d) zák. práce nebo dohodou uzavřenou z týchž důvodů, nastoupí v době, která byla rozhodující pro určení výše odstupného, do pracovního poměru v úřadu městské části téhož statutárního města jeho nástup je třeba z hlediska ustanovení § 68 zák. práce považovat za opětovný nástup k dosavadnímu zaměstnavateli (statutárnímu městu)"
-
 #### Jednání obvodu/části za město (odst. 1)
 
 Obvod/část **nemá vlastní právní subjektivitu** — jedná „za statutární město". Z hlediska soukromého práva je smluvní stranou vždy statutární město (poznávací znaky obvodu/části se zpravidla uvádějí v identifikační doložce smlouvy); z hlediska veřejnoprávní procesní subjektivity může obvod/část vystupovat jako účastník řízení (§ 27 SŘ), pokud jde o jeho práva vyplývající z výkonu svěřené působnosti.

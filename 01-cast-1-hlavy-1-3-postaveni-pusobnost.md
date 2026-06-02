@@ -21,12 +21,6 @@
 > *Obec je základním územním samosprávným společenstvím občanů; tvoří územní celek, který je vymezen hranicí území obce.*
 
 **Výklad:**
-
-**Judikatura (z místních zdrojů):**
-
-- *NS* [21 Cdo 915/2012](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2013%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2013&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_915_2012.txt) — 21. 1. 2013, kat. A
-  > „Povinnost vrátit poskytnuté odstupné (jeho část) má zaměstnanec územně členěného statutárního města (s výjimkou hlavního města Prahy) zařazený do městské policie, který po skončení pracovního poměru výpovědí podle ustanovení § 52 písm. a) až d) zák. práce nebo dohodou uzavřenou z týchž důvodů, nastoupí v době, která byla rozhodující pro určení výše odstupného, do pracovního poměru v úřadu městské části téhož statutárního města jeho nástup je třeba z hlediska ustanovení § 68 zák. práce považovat za opětovný nástup k dosavadnímu zaměstnavateli (statutárnímu městu)"
-
 #### Ústavní zakotvení a legální definice
 
 § 1 ZoO obsahuje **legální definici obce** jako vstupní ustanovení celého obecního zřízení. Tato definice plně transponuje a operacionalizuje ústavní definici z **čl. 100 odst. 1 Ústavy**: „Územní samosprávné celky jsou územními společenstvími občanů, která mají právo na samosprávu." § 1 ZoO tuto ústavní formuli konkretizuje na úrovni obce a zdůrazňuje **trojici definičních znaků obce**:
@@ -64,12 +58,6 @@ Hranice obce je právní skutečností konstituující obec teritoriálně. Stan
 > *(2) Obec pečuje o všestranný rozvoj svého území a o potřeby svých občanů; při plnění svých úkolů chrání též veřejný zájem.*
 
 **Výklad:**
-
-**Judikatura (z místních zdrojů):**
-
-- *NS* [21 Cdo 915/2012](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2013%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2013&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_915_2012.txt) — 21. 1. 2013, kat. A
-  > „Povinnost vrátit poskytnuté odstupné (jeho část) má zaměstnanec územně členěného statutárního města (s výjimkou hlavního města Prahy) zařazený do městské policie, který po skončení pracovního poměru výpovědí podle ustanovení § 52 písm. a) až d) zák. práce nebo dohodou uzavřenou z týchž důvodů, nastoupí v době, která byla rozhodující pro určení výše odstupného, do pracovního poměru v úřadu městské části téhož statutárního města jeho nástup je třeba z hlediska ustanovení § 68 zák. práce považovat za opětovný nástup k dosavadnímu zaměstnavateli (statutárnímu městu)"
-
 #### Obec jako veřejnoprávní korporace (odst. 1) — klíčový pojem celého obecního zřízení
 
 Označení obce za **veřejnoprávní korporaci** je systémově fundamentální. Veřejnoprávní korporace je právnická osoba zřízená zákonem k výkonu veřejné moci nebo k péči o veřejné záležitosti, jejíž členská základna je dána zákonem (nikoli dobrovolným členstvím jako u soukromoprávní korporace). Charakteristické znaky veřejnoprávní korporace u obce:
@@ -173,12 +161,6 @@ Odst. 6 stanoví **pravidla nástupnictví v statusu** při územních změnách
 > *(2) Území statutárních měst se může členit na městské obvody nebo městské části s vlastními orgány samosprávy.*
 
 **Výklad:**
-
-**Judikatura (z místních zdrojů):**
-
-- *NS* [21 Cdo 915/2012](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2013%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2013&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_915_2012.txt) — 21. 1. 2013, kat. A
-  > „Povinnost vrátit poskytnuté odstupné (jeho část) má zaměstnanec územně členěného statutárního města (s výjimkou hlavního města Prahy) zařazený do městské policie, který po skončení pracovního poměru výpovědí podle ustanovení § 52 písm. a) až d) zák. práce nebo dohodou uzavřenou z týchž důvodů, nastoupí v době, která byla rozhodující pro určení výše odstupného, do pracovního poměru v úřadu městské části téhož statutárního města jeho nástup je třeba z hlediska ustanovení § 68 zák. práce považovat za opětovný nástup k dosavadnímu zaměstnavateli (statutárnímu městu)"
-
 #### Taxativní katalog statutárních měst (odst. 1)
 
 § 4 obsahuje **uzavřený výčet** 26 statutárních měst v ČR (k 1. 1. 2026). Status statutárního města se nezískává populačním kritériem ani procedurálním aktem — je svěřen výhradně **přímo zákonem**. Vznik nového statutárního města vyžaduje **novelu ZoO**. Tento numerus clausus je výrazem ústavní kompetence Parlamentu rozhodovat o struktuře územní samosprávy v záležitostech přesahujících běžnou regulaci.
