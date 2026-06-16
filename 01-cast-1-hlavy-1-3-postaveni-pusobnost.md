@@ -58,6 +58,14 @@ Hranice obce je právní skutečností konstituující obec teritoriálně. Stan
 > *(2) Obec pečuje o všestranný rozvoj svého území a o potřeby svých občanů; při plnění svých úkolů chrání též veřejný zájem.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 1057/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1057-12_1) — usnesení, 12. 4. 2012
+  > „Zastupitelstvo města není a nemůže být orgánem veřejné moci ve smyslu uvedené definice, ale naopak je veřejnoprávní korporací, která má vlastní majetek a vystupuje v právních vztazích svým jménem (§ 2 zákona č. 128/2000 Sb.)"
+- *ÚS* [II.ÚS 1060/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1060-12_1) — usnesení, 16. 4. 2012
+  > „Je nepochybné, že Zastupitelstvo města Brna není a nemůže být orgánem veřejné moci ve smyslu této definice, ale naopak je veřejnoprávní korporací, která má vlastní majetek a vystupuje v právních vztazích svým jménem (§ 2 zákona č. 128/2000 Sb.)"
+
 #### Obec jako veřejnoprávní korporace (odst. 1) — klíčový pojem celého obecního zřízení
 
 Označení obce za **veřejnoprávní korporaci** je systémově fundamentální. Veřejnoprávní korporace je právnická osoba zřízená zákonem k výkonu veřejné moci nebo k péči o veřejné záležitosti, jejíž členská základna je dána zákonem (nikoli dobrovolným členstvím jako u soukromoprávní korporace). Charakteristické znaky veřejnoprávní korporace u obce:
@@ -293,8 +301,10 @@ Podrobně viz výklad k § 61 a násl. níže.
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 3257/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/69C3CBB4FC4A1322C1257BDB00404A83?openDocument) — 20. 8. 2013, kat. A
+- *NS* [30 Cdo 3257/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/69C3CBB4FC4A1322C1257BDB00404A83?openDocument) — kat. A, 20. 8. 2013
   > „Výkon rozhodnutí o uložení pokuty v přestupkovém řízení orgánem obce je výkonem přenesené působnosti. Za škodu nebo újmu způsobenou v rámci něho vydaným nezákonným rozhodnutím nebo nesprávným úředním postupem odpovídá stát podle zákona č. 82/1998 Sb"
+- *ÚS* [II.ÚS 995/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-995-07_1) — usnesení, 10. 7. 2007
+  > „Naopak zákon č. 128/2000 Sb., o obcích (obecní zřízení), posléze otázku výkonu opatrovnictví obcí zpřehlednil pouze zdánlivě, když zavedl obecné pravidlo, že pokud zvláštní zákon upravuje působnost obcí a nestanoví, že jde o přenesenou působnost, platí, že jde vždy o samostatnou působnost (§ 8 zákona č. 128/2000 Sb.)"
 
 #### Interpretační pravidlo — pochybnostní pravidlo ve prospěch samosprávy
 
@@ -347,6 +357,13 @@ Finanční kontrola je integrální součástí finančního hospodaření obce 
 > *- d) stanoví-li tak zvláštní zákon.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 10/06](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-10-06_1) — nález, 13. 3. 2007
+  > „Vycházeje z teleologické argumentace při výkladu rozsahu § 10 písm. a) zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, vyslovil v něm názor, dle něhož pokud provozování určité činnosti představuje potenciální zásah do chráněného statku, ač je provozována na kterémkoli veřejném prostranství obce, může ji obec zakázat provozovat na všech veřejných prostranstvích. To tehdy, odůvodňují-li to úvahy plynoucí z použití principu proporcionality…"
+- *ÚS* [Pl.ÚS 12/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-12-11_1) — nález, 24. 4. 2012
+  > „…do sféry samostatné působnosti obce regulovatelné obecně závaznými vyhláškami ve smyslu ústavním pořádkem garantované územní samosprávy spadají záležitosti, které jsou převážně místního nebo regionálního dopadu a jejichž úprava je v zájmu obce a jejích občanů: nepochybně například zabezpečování místních záležitostí veřejného pořádku, udržování čistoty ulic a jiných veřejných prostranství, ochrana životního prostředí, zeleně v zástavbě a ostatní veřejné zeleně, užívání zařízení obce sloužících potřebám veřejnosti [srov. ustanovení § 10 zákona o obcích], územní rozvoj obce"
 
 #### Klíčové ustanovení obecní normotvorby
 
@@ -769,8 +786,8 @@ Tento rozdíl odráží různý charakter obou symbolů: znak je výsostným ozn
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [8 Co 148/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B0E1F7403A52AA14C1257BD600397FB4?openDocument) — 30. 3. 2004, kat. A
-  > „V řízení o žalobě obce na náhradu nákladů za přiložení a odstranění technických prostředků k zabránění odjezdu vozidla (§ 17a odst. 5 zákona č. 553/1991 Sb. ve znění pozdějších předpisů) je obec podle právní úpravy účinné od 12. listopadu 2000 (§ 35 odst. 1, § 61 zákona č. 128/2000 Sb. ve znění pozdějších předpisů) osobně osvobozena od placení soudního poplatku podle ustanovení § 11 odst. 2 písm. b/ zákona č. 549/1991 Sb. ve znění pozdějších předpisů"
+- *ÚS* [Pl.ÚS 63/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-63-04) — nález, 22. 3. 2005
+  > „Rozvedením shora zmíněného čl. 104 odst. 3 Ústavy ve smyslu stanovení působnosti obcí vydávat obecně závazné vyhlášky je ustanovení § 35 odst. 3 písm. a) zákona č. 128/2000 Sb., o obcích (obecní zřízení). Podle tohoto ustanovení se obec při výkonu samostatné působnosti (ve smyslu ustanovení § 35 odst. 1 zákona o obcích) řídí při vydávání obecně závazných vyhlášek zákonem"
 
 #### Generální klauzule samostatné působnosti (odst. 1) — klíčové kompetenční ustanovení
 
@@ -889,8 +906,8 @@ Tato ustanovení formalizují **reprezentativní a slavnostní funkce** obce. Č
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [25 Cdo 15/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/70585093C02A7946C125873C00188864?openDocument) — 27. 5. 2021, kat. A
-  > „Ukončila-li obec jednání o uzavření smlouvy vedené na základě řádně zveřejněného záměru pronajmout nemovitý obecní majetek z důvodu upřednostnění jiné nabídky nově zvoleným starostou a částí členů rady obce, má smluvní strana, která již důvodně předpokládala uzavření smlouvy, právo na náhradu škody"
+- *ÚS* [II.ÚS 2396/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2396-09_1) — nález, 13. 8. 2012
+  > „Z ustanovení § 38 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, plyne obci přímá povinnost pečovat o zachování a rozvoj svého majetku a chránit jej před neoprávněnými zásahy"
 
 #### Zásada účelnosti a hospodárnosti (odst. 1)
 
@@ -941,12 +958,12 @@ Obec má povinnost aktivně chránit svá majetková práva — uplatňovat náh
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [25 Cdo 15/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/70585093C02A7946C125873C00188864?openDocument) — 27. 5. 2021, kat. A
-  > „Ukončila-li obec jednání o uzavření smlouvy vedené na základě řádně zveřejněného záměru pronajmout nemovitý obecní majetek z důvodu upřednostnění jiné nabídky nově zvoleným starostou a částí členů rady obce, má smluvní strana, která již důvodně předpokládala uzavření smlouvy, právo na náhradu škody"
-- *NS* [28 Cdo 3950/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C53478A64FD8738C1257A4E0065ABD5?openDocument) — 15. 11. 2010, kat. A
+- *NS* [28 Cdo 3950/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C53478A64FD8738C1257A4E0065ABD5?openDocument) — kat. A, 15. 11. 2010
   > „Smlouva o úplatném převodu obecního majetku za cenu podstatně nižší, než je cena v místě a čase obvyklá, je bez náležitých důvodů pro tuto odchylku neplatná podle § 39 obč. zák., neboť svým obsahem odporuje zákonu (§ 39 odst. 2 zákona č. 128/2000 Sb., o obcích /obecní zřízení/, ve znění pozdějších předpisů)"
-- *NS* [30 Cdo 1250/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F8A9B9DDABDAE847C1257A4E0069A9DA?openDocument) — 27. 9. 2010, kat. A
+- *NS* [30 Cdo 1250/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F8A9B9DDABDAE847C1257A4E0069A9DA?openDocument) — kat. A, 27. 9. 2010
   > „Zamýšlí-li obec prodat část svého pozemku, je nezbytné, aby ve zveřejněném záměru byl uvedený pozemek, resp. jeho (k prodeji nabízená) část náležitým způsobem identifikována. Zveřejnění záměru obce o „prodeji části pozemku p. č. XY v k. ú. XY“ dostatečnou identifikací části pozemku není"
+- *NS* [25 Cdo 15/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/70585093C02A7946C125873C00188864?openDocument) — kat. A, 27. 5. 2021
+  > „Ukončila-li obec jednání o uzavření smlouvy vedené na základě řádně zveřejněného záměru pronajmout nemovitý obecní majetek z důvodu upřednostnění jiné nabídky nově zvoleným starostou a částí členů rady obce, má smluvní strana, která již důvodně předpokládala uzavření smlouvy, právo na náhradu škody"
 
 #### Princip transparentnosti (odst. 1)
 
@@ -1191,8 +1208,8 @@ Místní referendum se v ZoO objevuje jako conditio sine qua non nebo jako alter
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [8 Co 148/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B0E1F7403A52AA14C1257BD600397FB4?openDocument) — 30. 3. 2004, kat. A
-  > „V řízení o žalobě obce na náhradu nákladů za přiložení a odstranění technických prostředků k zabránění odjezdu vozidla (§ 17a odst. 5 zákona č. 553/1991 Sb. ve znění pozdějších předpisů) je obec podle právní úpravy účinné od 12. listopadu 2000 (§ 35 odst. 1, § 61 zákona č. 128/2000 Sb. ve znění pozdějších předpisů) osobně osvobozena od placení soudního poplatku podle ustanovení § 11 odst. 2 písm. b/ zákona č. 549/1991 Sb. ve znění pozdějších předpisů"
+- *ÚS* [Pl.ÚS 55/2000](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-55-2000) — nález, 18. 4. 2001
+  > „Obecní úřad je orgánem obce, tzn. je orgánem samosprávy a výkon státní správy mu lze podle čl. 105 Ústavy svěřit pouze tehdy, stanoví-li to zákon. Podle § 61 odst. 1 zákona č. 128/2000 Sb., o obcích, obec vykonává na svém území státní správu ve věcech, které stanoví zákon; působnost v těchto věcech je přenesenou působností obce"
 
 #### Kategorizace obcí podle rozsahu přenesené působnosti (odst. 1) — systémové ustanovení
 

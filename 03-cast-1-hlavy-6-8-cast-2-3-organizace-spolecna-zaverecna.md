@@ -40,6 +40,11 @@ Tato dvojkolejnost je nejen formálním rozdělením kompetence, ale i materiál
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 1/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-1-23_1) — nález, 14. 3. 2023
+  > „Oprávnění Ministerstva vnitra k podání takového návrhu vyplývající z § 64 odst. 2 písm. g) zákona o Ústavním soudu je pak podmíněno tím, že se pokusilo přimět obec ke zjednání nápravy postupem podle § 123 odst. 1 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů"
+
 #### Postavení obecně závazné vyhlášky a ústavní rámec dozoru
 
 Obecně závazná vyhláška obce (dále jen „OZV") je **originárním právním předpisem** vydávaným obcí v samostatné působnosti na základě čl. 104 odst. 3 Ústavy („Zastupitelstva mohou v mezích své působnosti vydávat obecně závazné vyhlášky"). OZV nemá normativní podklad v jiném zákoně než v ústavním zmocnění samém — obec tedy nepotřebuje konkrétní zákonné zmocnění, postačí, že obecně závazná vyhláška spadá do věcné působnosti obce (typicky §§ 10, 35 zákona o obcích — místní záležitosti veřejného pořádku, čistoty veřejných prostranství, organizace volného času dětí a mládeže, pravidla pro pohyb psů, použití zábavní pyrotechniky apod.). Rozhodnutí o vydání OZV náleží výhradně zastupitelstvu obce [§ 84 odst. 2 písm. h)] — zákonodárce tím zdůraznil demokratickou legitimitu obecní normotvorby.
@@ -153,6 +158,13 @@ Stejně tak vynětí dozoru tam, kde je upraven zvláštním předpisem, předch
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 49/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-49-23_1) — nález, 21. 2. 2024
+  > „Oprávnění ředitele krajského úřadu k podání návrhu vyplývá z § 64 odst. 2 písm. i) zákona o Ústavním soudu; je však podmíněno tím, že se krajský úřad pokusil přimět obec ke zjednání nápravy protizákonného stavu postupem podle § 125 odst. 1 zákona č. 128/2000 Sb. o obcích (obecní zřízení), ve znění pozdějších předpisů"
+- *ÚS* [Pl.ÚS 31/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-31-23_1) — nález, 6. 9. 2023
+  > „Oprávnění ředitele krajského úřadu k podání návrhu vyplývá z § 64 odst. 2 písm. i) zákona o Ústavním soudu; je však podmíněno tím, že se krajský úřad pokusil přimět obec ke zjednání nápravy protizákonného stavu postupem podle § 125 odst. 1 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů"
+
 #### Nařízení obce jako derivativní právní předpis
 
 Nařízení obce je rovněž právním předpisem obce, ale na rozdíl od OZV je vydáváno v **přenesené působnosti**. Vydává jej rada obce (§ 102 odst. 2 písm. d)), v obcích, kde se rada nevolí, zastupitelstvo (§ 102 odst. 4). Nařízení nemůže být vydáno bez konkrétního zákonného zmocnění — vychází z principu, že obec v přenesené působnosti je výkonným orgánem státu a může konat jen na základě a v mezích zákona (čl. 79 odst. 3 Ústavy). Typicky jde o nařízení v oblastech jako je tržní řád (§ 18 živnostenského zákona), územní opatření v dopravě, koncepce ochrany ovzduší v obci atd.
@@ -184,6 +196,11 @@ Drobný terminologický rozdíl: § 125 odst. 2 pracuje s pojmem „**zřejmý r
 > *(2) V případě zřejmého a závažného rozporu usnesení, rozhodnutí nebo jiného opatření orgánu obce v přenesené působnosti se zákonem může krajský úřad takové usnesení, rozhodnutí nebo jiné opatření orgánu obce zrušit bez předchozí výzvy ke zjednání nápravy.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 Afs 127/2004 - 62](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/246176) — 21. 9. 2006
+  > „Uvedené předpisy naopak obsahují ustanovení, jež mají zajistit jednotný výkon přenesené státní správy orgány územních samosprávných celků prostřednictvím institutu dozoru nad výkonem přenesené působnosti, za jejichž použití by bylo možno eliminovat případné excesy spočívající v „nadržování“ vlastní obci či kraji (srov. § 126 zákona č. 128/2000 Sb. a § 81 zákona č. 129/2000 Sb.)"
 
 #### Přímé zrušení místo návrhu k soudu
 
@@ -498,6 +515,14 @@ Hlava VIII se rozpadá na dvě roviny:
 > *- j) další záležitosti, stanoví-li tak tento nebo zvláštní zákon.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [57 A 61/2016 - 56](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/515587) — 6. 6. 2017
+  > „Pravomoc orgánů městských obvodů a městských částí na úseku samostatné a přenesené působnosti upravuje statut, který je vydáván formou obecně závazné vyhlášky obce [viz. § 130 písm. c) zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů …]. Městské obvody a městské části jednají za statutární město v záležitostech jim svěřených zákonem a v mezích zákona statutem (srov. § 134 odst. 1 zákona o obcích). Městské obvody nemají právní osobnost, ale tuto má statutární město, jehož jménem mohou městské obvody v souladu se statutem jednat"
+- *NSS* [3 As 251/2014 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/636665) — 2. 12. 2015
+  > „ustanovení § 130 písm. g) zákona č. 128/2000 Sb., o obcích, vyžaduje participaci městských částí při projednání územně plánovací dokumentace. … návrh územního plánu musí být před schválením obligatorně projednán v zastupitelstvech městských částí. … městským částem je nutné dát možnost se k projednávaným změnám vyjádřit takovým způsobem, aby to pro ně bylo reálné"
+
 #### Statut jako obecně závazná vyhláška sui generis
 
 Statut je **obecně závazná vyhláška města** s tím rozdílem, že jeho obsah je z velké části předem stanoven zákonem (§ 130 písm. a)–j)). Statut není volnou normotvornou kreací města — město je vázáno povinným okruhem upravovaných záležitostí. Statut je vydáván zastupitelstvem města jako obecně závazná vyhláška podle § 84 odst. 2 písm. h) — vyžaduje schválení nadpoloviční většinou všech členů zastupitelstva města.
@@ -646,6 +671,12 @@ Slova „za podmínek v něm stanovených" znamenají, že statut může pravomo
 > *(2) Městské obvody a městské části nemohou vydávat obecně závazné vyhlášky nebo nařízení.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 As 155/2021 - 26](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/676780) — 13. 1. 2022
+  > „Výjimku zmíněnou v citovaném ustanovení statutu je třeba vykládat restriktivně tak, že na městské obvody nebyla přenesena toliko normotvorná pravomoc k vydávání nařízení regulujícího stání motorových vozidel ve vymezených oblastech obce, což odpovídá skutečnosti, že přenos normotvorby na městské obvody a části zapovídá § 134 odst. 2 zákona č. 128/2000 Sb., o obcích (obecní zřízení)"
+
 #### Jednání obvodu/části za město (odst. 1)
 
 Obvod/část **nemá vlastní právní subjektivitu** — jedná „za statutární město". Z hlediska soukromého práva je smluvní stranou vždy statutární město (poznávací znaky obvodu/části se zpravidla uvádějí v identifikační doložce smlouvy); z hlediska veřejnoprávní procesní subjektivity může obvod/část vystupovat jako účastník řízení (§ 27 SŘ), pokud jde o jeho práva vyplývající z výkonu svěřené působnosti.
@@ -730,6 +761,11 @@ Pozoruhodné: zákon mezi §§ 137 a 139 vynechává § 138 — předchozí zně
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [22 A 9/2012 - 66](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/553566) — 12. 9. 2013
+  > „… odkazuje přitom na ust. § 130 písm. c) a § 139 odst. 2 zákona č. 128/2000 Sb. o obcích, kdy v I. stupni rozhodují úřady městských částí a odvolacím správním orgánem není krajský úřad tak, jak jej stanovil v § 77 odst. 1 zákona č. 111/2006 Sb., ale je jím dle ust. § 89 odst. 1 správního řádu nejblíže nadřízený správní orgán, tj. Magistrát města Brna"
+
 #### Statutární města jako obce s rozšířenou působností
 
 Statutární města jsou ze zákona obcemi s rozšířenou působností (§ 139 odst. 1) — jejich orgány tedy vykonávají maximální rozsah přenesené působnosti, jaký zákon obcím svěřuje (typicky stavební úřad, matriční úřad, ohlašovna, řidičské průkazy, sociálně-právní ochrana dětí atd.).
@@ -763,6 +799,11 @@ Rozhodnutí orgánů obvodu/části vydaná ve správním řízení přezkoumáv
 > *(3) V městských částech a městských obvodech, jejichž orgánům je zcela nebo zčásti svěřena přenesená působnost, kterou podle zvláštních zákonů vykonávají pověřené obecní úřady, popřípadě některá přenesená působnost, kterou podle zvláštních zákonů vykonávají obecní úřady obce s rozšířenou působností, se zřizuje funkce tajemníka úřadu městského obvodu nebo tajemníka úřadu městské části. Tajemníka úřadu městského obvodu nebo tajemníka úřadu městské části jmenuje a odvolává starosta se souhlasem tajemníka magistrátu; bez souhlasu tajemníka magistrátu je jmenování a odvolání tajemníka úřadu městského obvodu nebo městské části neplatné.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [15 A 127/2012 - 137](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/549510) — 2. 7. 2014
+  > „… ve statutárním městě se zřizuje funkce tajemníka magistrátu, který je zaměstnancem města. Tajemníka magistrátu jmenuje a odvolává primátor se souhlasem ředitele krajského úřadu a stanoví jeho plat podle zvláštních předpisů. Tajemník magistrátu je odpovědný za plnění úkolů magistrátu v samostatné působnosti i přenesené působnosti primátorovi"
 
 #### Terminologie funkcí ve statutárním městě
 
@@ -897,7 +938,11 @@ Subsidiarita je nezbytná — Hlava VIII je krátká (15 paragrafů) a zákon o 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [20 Cdo 796/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8CEF1F35089809A6C1257A4E0068A6BE?openDocument) — 31. 3. 2005, kat. A
+- *NSS* [30 A 76/2017 - 202](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/424767) — 24. 3. 2020
+  > „… měla by případná změna opatření obecné povahy vydávaného v samostatné působnosti provedená dozorčím orgánem v rámci přezkumu vždy za následek nepřípustný zásah do ústavního práva územního samosprávného celku na samosprávu [srov. § 147 odst. 2 zákona č. 128/2000 Sb., o obcích (obecní zřízení), a v něm uvedený zákaz apelace v odvolacím řízení ve věcech samostatné působnosti …]"
+- *ÚS* [IV.ÚS 952/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-952-15_1) — usnesení, 12. 5. 2015
+  > „Podle § 147 odst. 3 zákona č. 128/2000 Sb., o obcích (obecní zřízení), obec rovněž vybírá a vymáhá pokuty; výnos pokut uložených obcí je přitom příjmem obce, pokud zvláštní zákon nestanoví jinak … Projednávání přestupků, stejně jako vybírání a vymáhání pokut, je výkonem přenesené působnosti obce, k němuž je podle § 109 odst. 3 písm. b) obecního zřízení - s výjimkou věcí, které patří do působnosti jiného orgánu obce - příslušný obecní úřad"
+- *NS* [20 Cdo 796/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8CEF1F35089809A6C1257A4E0068A6BE?openDocument) — kat. A, 31. 3. 2005
   > „Jestliže byla pachateli přestupku podle zákona č. 200/1990 Sb. ve znění pozdějších předpisů uložena povinnost nahradit poškozenému přestupkem způsobenou škodu, je poškozený nositelem práva z vydaného rozhodnutí a svědčí mu aktivní věcná legitimace v řízení o soudní výkon tohoto titulu tuto legitimaci naopak nemá vymáhající správní orgán"
 
 #### Působnost správního řádu (odst. 1)
@@ -931,6 +976,13 @@ Tato tři územně členěná statutární města mají v některých věcech sp
 > *Skutečnosti nasvědčující vyloučení zaměstnance obce zařazeného do obecního úřadu z projednávání a rozhodování věci ve správním řízení se oznamují vedoucímu odboru obecního úřadu; v obcích, kde není zřízen odbor obecního úřadu, se toto oznámení činí starostovi. Skutečnosti nasvědčující vyloučení vedoucího odboru obecního úřadu se oznamují tajemníkovi obecního úřadu; v obci, kde nepůsobí tajemník obecního úřadu, se toto oznámení činí starostovi. U člena komise nebo zvláštního orgánu se oznámení činí starostovi. O podjatosti rozhoduje orgán, popřípadě zaměstnanec, jemuž se skutečnosti nasvědčující vyloučení oznamují; ten také v případě, že zaměstnanec nebo člen orgánu bude vyloučen pro podjatost, učiní potřebná opatření k zajištění dalšího řízení.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [41 A 66/2015 - 46](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/521360) — 8. 3. 2017
+  > „Dle § 148 zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, se skutečnosti nasvědčující vyloučení zaměstnance zařazeného do obecního úřadu z projednávání a rozhodování věci ve správním řízení oznamují příslušnému vedoucímu odboru obecního úřadu, v obcích, kde není zřízen odbor obecního úřadu, se toto oznámení činí starostovi. … O podjatosti rozhoduje orgán, popř. zaměstnanec, jemuž se skutečnosti nasvědčující vyloučení oznamují; ten také v případě, že zaměstnanec nebo člen orgánu bude vyloučen pro podjatost, učiní potřebná opatření k zajištění dalšího řízení"
+- *NSS* [46 A 186/2017 - 122](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/595847) — 25. 2. 2021
+  > „… pokud by dovodil podjatost až do úrovně nejblíže nadřízeného představeného úřední osoby, která v dané věci přímo rozhoduje či podává závazné stanovisko, pak musel rozhodnout i o podjatosti samotných úředních osob bezprostředně činných v procesu posuzování a rozhodování o žádosti stavebníka [k tomu srov. speciální úpravu v § 148 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů …]"
 
 #### Specifická úprava podjatosti pro úřední osoby obce
 
@@ -990,6 +1042,11 @@ Vlastní výkon rozhodnutí orgány obce se řídí:
 > *(3) Výkon funkce veřejného opatrovníka podle občanského zákoníku47) obcí je výkonem přenesené působnosti.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 101/2015 - 33](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/456786) — 11. 7. 2018
+  > „Výkon funkce veřejného opatrovníka je výkonem státní správy v rámci přenesené působnosti obce podle § 149b zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů (dále jen „zákon o obcích“)"
 
 #### Tři kategorie úkonů obce v přenesené působnosti podle občanského zákoníku
 

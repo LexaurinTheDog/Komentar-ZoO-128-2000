@@ -100,6 +100,11 @@ V případech vzniku „nové" obce (sloučením, oddělením) tradiční mechan
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 73/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-73-04) — nález, 26. 1. 2005
+  > „Zde již nejde o otázku rovnosti šancí politických stran, za které byli zvoleni, nýbrž o otázku jejich vystupování jako veřejných činitelů zastupujících zájmy obce a jejích obyvatel, jak to vyplývá ze znění jejich slibu, kterým se zavazují na svou čest a svědomí, že svoji funkci budou vykonávat svědomitě, v zájmu obce (města) a jejích (jeho) občanů, a řídit se Ústavou a zákony České republiky [srov. § 69 odst. 2 zákona č. 128/2000 Sb., o obcích (obecní zřízení)]"
+
 #### Okamžik vzniku mandátu (odst. 1)
 
 Mandát zastupitele vzniká **ex lege** ukončením hlasování ve volbách, nikoliv až vyhlášením výsledků nebo přijetím slibu. Tato úprava je shodná s režimem poslaneckého mandátu (čl. 19 odst. 3 Ústavy a contrario — Ústava neurčuje okamžik, ale zákon č. 90/1995 Sb. o jednacím řádu PS ho fixuje obdobně). Důsledky:
@@ -191,7 +196,7 @@ Porušení odst. 2 zaměstnavatelem zakládá:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 2745/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7BF08DB880268656C1257CF500356299?openDocument) — 27. 5. 2014, kat. A
+- *NS* [21 Cdo 2745/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7BF08DB880268656C1257CF500356299?openDocument) — kat. A, 27. 5. 2014
   > „Vedoucí zaměstnanec, který byl odvolán z pracovního místa nebo který se tohoto místa vzdal a pro kterého zaměstnavatel nemá jinou práci odpovídající jeho zdravotnímu stavu a kvalifikaci nebo který takovou práci nabídnutou mu zaměstnavatelem odmítl, nemá nárok na náhradu mzdy nebo platu pro překážku v práci na straně zaměstnavatele, jestliže byl zvolen členem zastupitelstva obce nebo starostou a jestliže byl pro výkon těchto veřejných funkcí dlouhodobě uvolněn"
 
 #### Dichotomie uvolněný vs. neuvolněný zastupitel
@@ -958,7 +963,7 @@ Zastupitelstvo rozhoduje o **zrušení usnesení rady**, je-li mu věc předlož
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 999/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/25642E5064077A53C1257EC70030DD4B?openDocument) — 1. 7. 2015, kat. A
+- *NS* [30 Cdo 999/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/25642E5064077A53C1257EC70030DD4B?openDocument) — kat. A, 1. 7. 2015
   > „Státní zastupitelství je legitimováno podle § 42 zákona č. 283/1993 Sb., o státním zastupitelství, ve znění pozdějších předpisů, k podání žaloby o určení neplatnosti smlouvy o převodu obecního nemovitého majetku, kterou za převádějící obec při absenci předchozího rozhodnutí zastupitelstva obce uzavřel starosta obce"
 
 #### Smysl § 85 — ochrana majetku obce
@@ -1297,6 +1302,11 @@ Zastupitel, který nesouhlasí s obsahem zápisu (zkreslení jeho výroku, opome
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Ao 1/2007 - 94](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/618755) — 26. 5. 2010
+  > „Jednací řád, přijatý na základě § 96 zákona č. 128/2000 Sb., o obcích (dále též obecní zřízení), představuje vnitřní (interní) dokument zastupitelstva, který by měl zastupitelstvu pomoci předem vyřešit některé procesní otázky zasedání. Pokud zastupitelstvo postupuje v konkrétním případě v rozporu s jednacím řádem, ale v souladu s pravidly stanovenými v obecním zřízení, nezpůsobuje porušení jednacího řádu nezákonnost přijatého rozhodnutí a není to důvod pro zásah státu"
+
 #### Povinnost vydat jednací řád
 
 Zastupitelstvo **musí** vydat jednací řád — to je obligatorní vnitřní předpis. Jednací řád upravuje detaily, které zákon ponechává na obci:
@@ -1393,6 +1403,11 @@ Správce podá **zprávu o výkonu funkce a stavu hospodaření** — zajištěn
 > *(4) Je-li starosta nebo místostarosta odvolán z funkce nebo se této funkce vzdal, přestává být i členem rady obce.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [46 A 108/2017 - 107](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/670773) — 10. 6. 2021
+  > „Rada města je totiž orgánem samosprávy, proto usnesení či jiné úkony městské rady je nutno považovat za výkon samostatné působnosti, ledaže by zákon stanovil, že jde o výkon působnosti přenesené [srov. § 99 odst. 1 zákona č. 128/2000 Sb., o obcích (obecní zřízení)…]"
 
 #### Postavení rady — kolegiální výkonný orgán (odst. 1)
 
@@ -1556,10 +1571,12 @@ Zápis ze schůze rady **není veřejný** (rozdíl od zápisu ze zastupitelstva
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [25 Cdo 15/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/70585093C02A7946C125873C00188864?openDocument) — 27. 5. 2021, kat. A
-  > „Ukončila-li obec jednání o uzavření smlouvy vedené na základě řádně zveřejněného záměru pronajmout nemovitý obecní majetek z důvodu upřednostnění jiné nabídky nově zvoleným starostou a částí členů rady obce, má smluvní strana, která již důvodně předpokládala uzavření smlouvy, právo na náhradu škody"
-- *NS* [21 Cdo 4521/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/468BA642655B62BCC1257AC9003BDA85?openDocument) — 20. 11. 2012, kat. A
+- *NS* [21 Cdo 4521/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/468BA642655B62BCC1257AC9003BDA85?openDocument) — kat. A, 20. 11. 2012
   > „Pravomoc rady obce stanovit celkový počet zaměstnanců obce v obecním úřadu a rozhodnout o organizačním řádu (organizační struktuře) obecního úřadu (§ 102 odst. 2 písm. j/ a o/ zákona č. 128/2000 Sb., ve znění pozdějších předpisů), v sobě zahrnuje také zřizování a rušení jednotlivých pracovních míst v rámci organizační struktury obecního úřadu. Tajemníkovi obecního úřadu oprávnění k vydávání organizačních norem svěřeno není"
+- *ÚS* [Pl.ÚS 34/02](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-34-02) — nález, 5. 2. 2003
+  > „Připuštění autoritativní delimitace zákonem č. 320/2002 Sb. je sice omezením autonomie obcí, měst a krajů určovat počty zaměstnanců svého obecního, městského či krajského úřadu [§ 102 odst. 2 písm. j) zákona o obcích…], jde však o omezení zákonné. Ustanovení o autoritativní delimitaci podle zákona č. 320/2002 Sb. působí v tomto ohledu jako lex specialis vůči zmíněným ustanovením zákonů o územní samosprávě"
+- *NS* [25 Cdo 15/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/70585093C02A7946C125873C00188864?openDocument) — kat. A, 27. 5. 2021
+  > „Ukončila-li obec jednání o uzavření smlouvy vedené na základě řádně zveřejněného záměru pronajmout nemovitý obecní majetek z důvodu upřednostnění jiné nabídky nově zvoleným starostou a částí členů rady obce, má smluvní strana, která již důvodně předpokládala uzavření smlouvy, právo na náhradu škody"
 
 #### Hlavní funkce rady (odst. 1)
 
@@ -1708,7 +1725,11 @@ V obcích bez rady přebírá tyto „doběhové" pravomoci **dosavadní starost
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 999/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/25642E5064077A53C1257EC70030DD4B?openDocument) — 1. 7. 2015, kat. A
+- *ÚS* [III.ÚS 721/2000](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-721-2000) — nález, 10. 7. 2001
+  > „Starosta obce podle dřívější ani současné úpravy nemohl a nemůže vytvářet sám vůli obce, ale pouze mohl a může tuto vůli navenek sdělovat a projevovat. […] je nezbytné takové rozhodnutí považovat za konkrétní projev ústavního principu, že obec je samostatně spravována zastupitelstvem"
+- *ÚS* [II.ÚS 87/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-87-04) — nález, 6. 4. 2005
+  > „Důvodem, že zákonodárce v zákoně č. 367/1990 Sb., o obcích (obecní zřízení), potažmo v zákoně č. 418/1990 Sb., o hlavním městě Praze, vymezil pravomoc orgánu obce při nakládání s jejím majetkem, bylo ochránit tento majetek před neodpovědným jednáním jednotlivce. […] starosta podle dřívější ani podle současné úpravy nemohl a nemůže sám vytvářet vůli obce. Avšak tam, kde již vůle obce v zásadních bodech vytvořena byla, mu nelze upřít právo, aby v intencích takto projevené vůle jednal"
+- *NS* [30 Cdo 999/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/25642E5064077A53C1257EC70030DD4B?openDocument) — kat. A, 1. 7. 2015
   > „Státní zastupitelství je legitimováno podle § 42 zákona č. 283/1993 Sb., o státním zastupitelství, ve znění pozdějších předpisů, k podání žaloby o určení neplatnosti smlouvy o převodu obecního nemovitého majetku, kterou za převádějící obec při absenci předchozího rozhodnutí zastupitelstva obce uzavřel starosta obce"
 
 #### Statutární funkce — zastupování obce navenek (odst. 1)
@@ -1848,6 +1869,11 @@ V praxi se § 105 používá vzácně (zastupitelstvo často reflektuje vůli ra
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [37 A 17/2023 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/717735) — 30. 11. 2023
+  > „Komise jakožto zvláštní orgány jsou podle § 106 odst. 1 zákona č. 128/2000 Sb., o obcích (obecní zřízení), zřizovány starostou obce v přenesené působnosti … komise v konkrétním případě bude správním orgánem rozhodujícím o přestupku namísto obecního úřadu"
+
 #### Zvláštní orgány — speciální kompetenční jednotky
 
 Zvláštní orgány obce jsou **speciální orgány zřízené zvláštním zákonem** pro výkon konkrétní přenesené působnosti. Typické příklady:
@@ -1878,6 +1904,11 @@ Pokud v čele zvláštního orgánu stojí **starosta** ex lege (např. starosta
 > *Dosavadní starosta v období ode dne voleb do zastupitelstva obce do zvolení nového starosty nebo místostarosty, a jde-li o obec, v níž je volena rada obce, až do zvolení nové rady obce podle § 102a, vykonává pravomoci starosty podle § 103; v tomto období vykonává své pravomoci též dosavadní místostarosta. Nevykonává-li dosavadní starosta své pravomoci podle věty první, vykonává je dosavadní místostarosta, a je-li dosavadních místostarostů více, ten, kterého přede dnem voleb pověřilo zastupitelstvo obce zastupováním starosty, jinak ten, kterého pověřil dosavadní starosta. Vykonával-li ke dni voleb pravomoci starosty člen zastupitelstva obce podle § 103 odst. 6, použijí se věty první a druhá obdobně.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 2048/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2048-09_1) — nález, 2. 11. 2009
+  > „účelem ustanovení § 107 odst. 1 písm. b) zákona o obcích, v tehdy platném znění, které taxativním výčtem stanovovalo oprávnění starosty vykonávat v přechodném období některé pravomoci jinak náležející radě, je to, aby určitá oprávnění rady byla vykonávána i v přechodném období tak, aby obec nebyla ve své činnosti paralyzována"
 
 #### Kontinuita exekutivy
 
@@ -1944,7 +1975,7 @@ Tyto symboly mají **legitimující** funkci při slavnostních příležitostec
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 2738/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B1CB98262EBFE777C125871C0015FB0E?openDocument) — 29. 4. 2021, kat. A
+- *NS* [21 Cdo 2738/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B1CB98262EBFE777C125871C0015FB0E?openDocument) — kat. A, 29. 4. 2021
   > „Závěr o tom, zda zaměstnanec územního samosprávného celku zařazený do úřadu územního samosprávného celku se plněním svých pracovních úkolů podílí na správních činnostech, je výhradně výsledkem objektivního právního posouzení, zda zaměstnancem vykonávané činnosti naplňují znaky „správních činností“ ve smyslu jejich legální definice uvedené v ustanovení § 2 odst. 3 zákona č. 312/2002 Sb. (ve znění pozdějších předpisů), mezi které nepatří zařazení určitých činností pod správní činnosti územním samosprávným celkem v jeho vnitřních předpisech k takovému zařazení lze sice přihlížet při posuzování charakteru zaměstnancem vykonávaných činností, ale stane-li se následně tato otázka mezi zaměstnavatelem (územním samosprávným celkem) a zaměstnancem spornou, není jím soud vázán při posuzování charakteru zaměstnancem vykonávaných činností"
 
 #### Obecní úřad jako administrativní aparát
@@ -2021,7 +2052,7 @@ Tato třístupňová soustava (zavedená reformou veřejné správy 2003) je **z
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 2738/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B1CB98262EBFE777C125871C0015FB0E?openDocument) — 29. 4. 2021, kat. A
+- *NS* [21 Cdo 2738/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B1CB98262EBFE777C125871C0015FB0E?openDocument) — kat. A, 29. 4. 2021
   > „Závěr o tom, zda zaměstnanec územního samosprávného celku zařazený do úřadu územního samosprávného celku se plněním svých pracovních úkolů podílí na správních činnostech, je výhradně výsledkem objektivního právního posouzení, zda zaměstnancem vykonávané činnosti naplňují znaky „správních činností“ ve smyslu jejich legální definice uvedené v ustanovení § 2 odst. 3 zákona č. 312/2002 Sb. (ve znění pozdějších předpisů), mezi které nepatří zařazení určitých činností pod správní činnosti územním samosprávným celkem v jeho vnitřních předpisech k takovému zařazení lze sice přihlížet při posuzování charakteru zaměstnancem vykonávaných činností, ale stane-li se následně tato otázka mezi zaměstnavatelem (územním samosprávným celkem) a zaměstnancem spornou, není jím soud vázán při posuzování charakteru zaměstnancem vykonávaných činností"
 
 #### Tajemník — povinný v POU a ORP, fakultativní jinde (odst. 1)
