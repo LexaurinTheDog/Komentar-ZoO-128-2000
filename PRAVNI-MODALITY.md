@@ -143,3 +143,158 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | určí; rozhodne | [§ 3](https://e-sbirka.gov.cz/sb/2000/128#par_3); [§ 19](https://e-sbirka.gov.cz/sb/2000/128#par_19); [§ 71](https://e-sbirka.gov.cz/sb/2000/128#par_71); [§ 73](https://e-sbirka.gov.cz/sb/2000/128#par_73) |
 | Oprávnění a povinnost | jsou povinny; povinnost; je povinna; má právo | [§ 13](https://e-sbirka.gov.cz/sb/2000/128#par_13); [§ 14](https://e-sbirka.gov.cz/sb/2000/128#par_14); [§ 16](https://e-sbirka.gov.cz/sb/2000/128#par_16); [§ 38](https://e-sbirka.gov.cz/sb/2000/128#par_38) |
 | Domněnky, fikce a účinkové konstrukce | platí, že; považuje se za | [§ 8](https://e-sbirka.gov.cz/sb/2000/128#par_8); [§ 77](https://e-sbirka.gov.cz/sb/2000/128#par_77); [§ 152](https://e-sbirka.gov.cz/sb/2000/128#par_152) |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 128/2000 Sb., o obcích (obecní zřízení, ZoO) — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Právní modality vyjadřují způsob, jímž norma spojuje jednání s právním následkem. Nauka rozlišuje **objektivní (deontické) modality**, jež charakterizují normu samu — příkaz (norma ukládá konat), zákaz (norma zapovídá konat) a dovolení (norma ponechává prostor mezi příkazem a zákazem). Vedle nich stojí **zmocnění** jako svébytný typ kompetenční normy: nezakládá povinnost adresáta chovat se určitým způsobem, nýbrž zřizuje pravomoc (potestas) veřejného orgánu autoritativně zasahovat do právních poměrů — typicky normotvorbou nebo vrchnostenským rozhodováním. V obecním zřízení jsou kompetenční normy páteří celého předpisu, neboť vymezují, co smějí a musejí činit zastupitelstvo, rada, starosta, obecní úřad i dozorové orgány státu.
+
+**Subjektivní modality** popisují postavení konkrétního subjektu — oprávnění (subjektivní právo) a povinnost. Klíčem je **korelativita**: oprávnění jednoho subjektu odpovídá povinnost subjektu druhého (právu občana nahlížet do dokumentů odpovídá povinnost orgánu obce nahlédnutí umožnit). U územní samosprávy má tato dvojice ústavní rozměr — obec jako veřejnoprávní korporace je zároveň nositelem práva na samosprávu (čl. 8, čl. 100 Ústavy) i řady zákonných povinností (péče o majetek, transparence, zákaz rizikových finančních operací).
+
+**Normativní výrazy** jsou jazykové markery modalit: „je povinen", „musí", „nesmí" (příkaz a zákaz), „může", „lze", „je oprávněn" (dovolení a zmocnění), „má právo", „obdrží", „přísluší" (oprávnění). Výraz sám však není spolehlivým vodítkem — sloveso „může" značí u soukromé osoby dovolení, u orgánu veřejné moci však zpravidla vázanou pravomoc (kompetenci, kterou orgán vykonává ve veřejném zájmu, nikoli podle libosti).
+
+**Domněnky a fikce** jsou modality důkazně-konstrukční. Vyvratitelná domněnka („má se za to") přenáší důkazní břemeno, dokud není prokázán opak. Nevyvratitelná domněnka („platí, že") opak vylučuje. Fikce („považuje se za") ztotožňuje pro účely normy skutkově odlišné jevy — nepředstírá pravdivost, nýbrž nařizuje zacházet s A jako s B. V obecním zřízení plní tyto konstrukce systémovou roli: presumpce samostatné působnosti (§ 8), fikce zaměstnaneckého vztahu zastupitele (§ 79) či kvalifikace opatrovnictví jako přenesené působnosti (§ 149b).
+
+
+### Příkaz
+
+Příkazová norma ukládá adresátovi konat; její porušení zakládá protiprávnost opomenutím. V obecním zřízení směřuje příkaz zpravidla vůči obci jako korporaci nebo vůči jejímu orgánu (starosta, obecní úřad) a nese znaky **vázané povinnosti bez diskrece** — orgán nemá volbu, zda povinnost splní, nýbrž pouze jak. Typickými nositeli příkazu jsou procedurální normy (kvórum, svolání zasedání, lhůty pro projednání) a normy ukládající obci zajistit určitý stav (finanční kontrola).
+
+Zvláštní pozornost zasluhuje transformace kvantitativního prahu v příkaz: dosáhne-li podnět kvalifikované podpory (0,5 % občanů podle § 16 odst. 2 písm. f/), mění se dispozice orgánu — z fakultativního zabývání se věcí se stává **závazná povinnost projednat** ji v zákonné lhůtě. Obdobně kvórum podle § 87 formuluje příkaz jako podmínku platnosti: bez souhlasu nadpoloviční většiny všech členů usnesení právně nevzniká.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 9a | zajišťují | „Obce zajišťují výkon finanční kontroly podle zvláštního právního předpisu" | Ukládá obci zajistit vnitřní kontrolní systém a veřejnosprávní kontrolu. |
+| § 16 odst. 2 písm. f) | musí být projednána | „musí být projednána na jejich zasedání nejpozději do 60 dnů" | Kvalifikovaný práh občanů zakládá povinnost orgánu věc projednat ve lhůtě. |
+| § 87 | je třeba souhlasu nadpoloviční většiny | „K platnému usnesení zastupitelstva obce, rozhodnutí nebo volbě je třeba souhlasu nadpoloviční většiny všech členů zastupitelstva obce, nestanoví-li zvláštní právní předpis jinak." | Absolutní většina všech mandátů jako podmínka platnosti usnesení. |
+| § 92 odst. 1 | je povinen svolat | „Starosta je povinen svolat zasedání zastupitelstva obce, požádá-li o to alespoň jedna třetina členů zastupitelstva obce nebo hejtman kraje." | Kvalifikovaná žádost zavazuje starostu svolat zasedání — pojistka opozice a kraje. |
+| § 147 odst. 3 | vybírá a vymáhá | „Obec vybírá a vymáhá pokuty; výnos pokut uložených obcí je příjmem obce" | Ukládá obci vybírat a vymáhat pokuty; jejich výnos je příjmem obce. |
+
+- *ÚS* [IV.ÚS 952/15](judikatura/US-IV-S-952-15.md) — usnesení, 12. 5. 2015
+  > „Podle § 147 odst. 3 zákona č. 128/2000 Sb., o obcích (obecní zřízení), obec rovněž vybírá a vymáhá pokuty; výnos pokut uložených obcí je přitom příjmem obce, pokud zvláštní zákon nestanoví jinak"
+
+
+### Zákaz
+
+Zákazová norma zapovídá určité jednání; její porušení stíhá zpravidla nejtvrdší následek — **absolutní neplatnost** právního jednání nebo nezákonnost aktu. Obecní zřízení užívá zákaz dvojím způsobem: jednak jako **ochranný zákaz** cílený na finanční stabilitu a integritu samosprávy (zákaz ručení za cizí dluhy, zákaz krácení práv zastupitele z pracovního poměru), jednak jako **kompetenční zákaz** vymezující meze pravomoci orgánu (zákaz apelace v samostatné působnosti, zákaz normotvorby městských obvodů a částí).
+
+Svébytnou kategorií je zákaz vyjádřený sankcí neplatnosti (§ 39 odst. 1): nezveřejní-li obec záměr nakládat s nemovitostí, je právní jednání neplatné. Zákonodárce zde nevyslovuje zákaz explicitně slovesem „nesmí", nýbrž konstruuje jej jako **podmínku platnosti** — nesplnění publikační povinnosti je fakticky zapovězeno hrozbou neúčinnosti převodu. Zvláštní ústavní vahou disponuje zákaz imperativního mandátu (§ 69 odst. 4): zastupitel vykonává mandát osobně a není vázán žádnými příkazy, čímž je vyloučeno právně jej zavázat k určitému hlasování.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 38 odst. 3 | nesmí ručit | „Obec nesmí ručit za dluhy osob" | Ochranný zákaz ručení za cizí dluhy mimo taxativní výjimky; porušení stíhá neplatnost. |
+| § 39 odst. 1 | je právní jednání neplatné | „Pokud obec záměr nezveřejní, je právní jednání neplatné." | Sankce neplatnosti vynucuje transparenci při nakládání s nemovitým majetkem. |
+| § 69 odst. 4 | není vázán žádnými příkazy | „Člen zastupitelstva obce vykonává svůj mandát osobně a v souladu se svým slibem a není přitom vázán žádnými příkazy." | Volný mandát; zákaz mandátu imperativního a delegace hlasu. |
+| § 70 odst. 2 | nesmí být zkrácen | „Člen zastupitelstva obce nesmí být pro výkon své funkce zkrácen na právech vyplývajících z jeho pracovního poměru nebo jiného obdobného právního vztahu." | Chrání zastupitele-zaměstnance před znevýhodněním za výkon funkce. |
+| § 134 odst. 2 | nemohou vydávat | „Městské obvody a městské části nemohou vydávat obecně závazné vyhlášky nebo nařízení." | Normotvorba je vyhrazena statutárnímu městu jako jediné obci. |
+| § 147 odst. 2 | může pouze zrušit nebo zrušit a vrátit | „může rozhodnutí pouze zrušit nebo zrušit a vrátit k novému projednání" | Zákaz apelace: odvolací orgán nesmí věcně měnit rozhodnutí obce — ochrana samosprávy. |
+
+- *NS* [28 Cdo 3950/2010](judikatura/NS-28-Cdo-3950-2010.md) — 15. 11. 2010
+  > „Smlouva o úplatném převodu obecního majetku za cenu podstatně nižší, než je cena v místě a čase obvyklá, je bez náležitých důvodů pro tuto odchylku neplatná podle § 39 obč. zák., neboť svým obsahem odporuje zákonu (§ 39 odst. 2 zákona č. 128/2000 Sb., o obcích /obecní zřízení/, ve znění pozdějších předpisů)."
+- *ÚS* [Pl.ÚS 73/04](judikatura/US-Pl-S-73-04.md) — nález, 26. 1. 2005
+  > „o otázku jejich vystupování jako veřejných činitelů zastupujících zájmy obce a jejích obyvatel, jak to vyplývá ze znění jejich slibu, kterým se zavazují na svou čest a svědomí, že svoji funkci budou vykonávat svědomitě, v zájmu obce (města) a jejích (jeho) občanů, a řídit se Ústavou a zákony České republiky [srov. § 69 odst. 2 zákona č. 128/2000 Sb., o obcích (obecní zřízení)]"
+- *NSS* [6 As 155/2021 - 26](judikatura/NSS-6-As-155-2021-26.md) — rozsudek, 13. 1. 2022
+  > „na městské obvody nebyla přenesena toliko normotvorná pravomoc k vydávání nařízení regulujícího stání motorových vozidel ve vymezených oblastech obce, což odpovídá skutečnosti, že přenos normotvorby na městské obvody a části zapovídá § 134 odst. 2 zákona č. 128/2000 Sb., o obcích (obecní zřízení)"
+
+
+### Dovolení
+
+Dovolení ponechává adresátovi prostor volby: může jednat, ale nemusí. U obce jako veřejnoprávní korporace se dovolení projevuje především jako **organizační a rozhodovací autonomie** — fakultativní zakládání právnických osob, zřizování výborů či vnitřní kontrolní nástroje orgánů obce. Na rozdíl od zmocnění (jež zakládá pravomoc zasahovat navenek do práv třetích) dovolení zpravidla otevírá prostor pro vnitřní uspořádání a nakládání s vlastními záležitostmi.
+
+Řada dovolení má povahu **fakultativního oprávnění s vázaným účelem**: starosta „pozastaví" usnesení rady, „má-li za to", že je nesprávné (§ 105) — jde o suspenzivní veto uvnitř orgánů obce, o němž s konečnou platností rozhodne zastupitelstvo. Podobně u dozoru (§ 123 odst. 2) je Ministerstvu vnitra dovoleno při zřejmém rozporu OZV se základními právy pozastavit účinnost bez první fáze dozoru; sloveso „může" zde označuje pravomoc uplatnitelnou jen za kvalifikovaných podmínek.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 35a odst. 1 | může zakládat a zřizovat | „Obec může pro výkon samostatné působnosti zakládat a zřizovat právnické osoby a organizační složky obce, pokud zákon nestanoví jinak." | Organizační autonomie — dovolení zakládat společnosti, příspěvkové organizace a složky. |
+| § 105 | pozastaví, má-li za to | „Starosta pozastaví výkon usnesení rady obce, má-li za to, že je nesprávné." | Suspenzivní veto starosty vůči usnesení rady; rozhodne zastupitelstvo. |
+| § 117 odst. 1 | může zřídit | „Zastupitelstvo obce může zřídit jako své iniciativní a kontrolní orgány výbory." | Fakultativní zřízení výborů bez vlastní rozhodovací pravomoci. |
+| § 123 odst. 2 | může pozastavit bez předchozí výzvy | „může Ministerstvo vnitra pozastavit její účinnost bez předchozí výzvy ke zjednání nápravy" | Při zřejmém rozporu OZV se základními právy zkrácený dozorový postup. |
+| § 132 odst. 2 | lze odejmout | „Svěřenou věc z vlastnictví statutárního města lze městskému obvodu nebo městské části odejmout" | Sankční odejmutí svěřené věci při porušení předpisů a nezjednání nápravy. |
+
+
+### Zmocnění
+
+Zmocnění je kompetenční norma zakládající pravomoc orgánu. V obecním zřízení tvoří dvě velké skupiny: **normotvorná zmocnění** (vydávat obecně závazné vyhlášky v samostatné a nařízení v přenesené působnosti, prováděcí vyhlášky ministerstva) a **rozhodovací a dozorová zmocnění** (generální kompetence zastupitelstva, vyhrazené pravomoci rady, pravomoc krajského úřadu rušit nezákonné akty). Ústavní klíč pro jejich výklad: obec vydává OZV v mezích samostatné působnosti přímo na základě čl. 104 odst. 3 Ústavy (originární normotvorba), zatímco nařízení a prováděcí předpisy vyžadují konkrétní zákonné zmocnění a musí být vydány *secundum et intra legem*.
+
+Rozdíl mezi § 10 a § 11 odst. 1 je učebnicovou ukázkou dvou režimů zmocnění: OZV podle § 10 může obec vydávat v taxativně vymezeném katalogu předmětů bez zvláštního zmocnění (postačí ústavní zakotvení samosprávy), kdežto nařízení podle § 11 může obec vydávat jen tehdy, „je-li k tomu zákonem zmocněna". Zmocnění se dále liší podle nositele: normuje obec (§ 10, § 11), zastupitelstvo (§ 84), rada (§ 102), předseda Poslanecké sněmovny (§ 34a), krajský úřad (§ 126) i ministerstvo (§ 153).
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 10 | může obec ukládat | „Povinnosti může obec ukládat v samostatné působnosti obecně závaznou vyhláškou" | Normotvorné zmocnění ukládat povinnosti OZV v katalogu samostatné působnosti. |
+| § 11 odst. 1 | může vydávat | „Obec může v přenesené působnosti vydávat na základě zákona a v jeho mezích nařízení obce, je-li k tomu zákonem zmocněna." | Zmocnění k nařízení, podmíněné konkrétním zákonným zmocněním (secundum et intra legem). |
+| § 34a odst. 2 | může udělit | „Předseda Poslanecké sněmovny může obci, která nemá znak nebo vlajku obce, na její žádost znak nebo vlajku obce udělit." | Konstitutivní pravomoc předsedy PS udělit či změnit obecní symboliku. |
+| § 84 odst. 1 | rozhoduje | „Zastupitelstvo obce rozhoduje ve věcech patřících do samostatné působnosti obce" | Generální působnost zastupitelstva ve všech samosprávných záležitostech. |
+| § 102 odst. 2 | je vyhrazeno | „Radě obce je vyhrazeno" | Výlučné pravomoci rady jako výkonného orgánu (nařízení, hospodaření, řízení úřadu). |
+| § 126 odst. 1 | krajský úřad zruší | „krajský úřad takové usnesení, rozhodnutí nebo jiné opatření orgánu obce zruší" | Pravomoc přímo zrušit nezákonný akt obce v přenesené působnosti bez návrhu soudu. |
+| § 129 odst. 1 | kontrolují | „kontrolují výkon samostatné působnosti svěřené orgánům obcí Ministerstvo vnitra a výkon přenesené působnosti svěřené orgánům obcí krajské úřady v přenesené působnosti" | Rozdělení kontrolní kompetence mezi MV (samostatná) a krajské úřady (přenesená). |
+| § 153 | vydá vyhlášky | „Ministerstvo vnitra vydá vyhlášky k provedení § 33." | Zmocnění MV k prováděcí vyhlášce (zvláštní matriční úřady). |
+
+- *ÚS* [Pl.ÚS 12/11](judikatura/US-Pl-S-12-11.md) — nález, 24. 4. 2012
+  > „spadají záležitosti, které jsou převážně místního nebo regionálního dopadu a jejichž úprava je v zájmu obce a jejích občanů: nepochybně například zabezpečování místních záležitostí veřejného pořádku, udržování čistoty ulic a jiných veřejných prostranství, ochrana životního prostředí, zeleně v zástavbě a ostatní veřejné zeleně, užívání zařízení obce sloužících potřebám veřejnosti [srov. ustanovení § 10 zákona o obcích]"
+
+
+### Oprávnění a povinnost
+
+Oprávnění a povinnost jsou spjaty korelativně: jde o dvě strany téhož právního vztahu. Obecní zřízení zakládá **subjektivní práva** trojího druhu — politická a participativní práva občana obce (§ 16 odst. 2), procesní kontrolní práva zastupitele (§ 82), majetkově-rozpočtové nároky obce vůči státu (§ 62) a procesní záruky obce vůči dozoru (§ 89 odst. 1). Naproti tomu **povinnosti** zavazují obec (péče o majetek, náprava kontrolních zjištění) i zastupitele (účast, plnění úkolů, hájení zájmů občanů).
+
+Korelativita je nejlépe patrná u informačních a kontrolních práv: právu zastupitele požadovat informace (§ 82) odpovídá kogentní lhůta 30 dnů zavazující orgán obce k jejich poskytnutí. U majetkových nároků platí, že § 62 zakládá právo obce na příspěvek, nikoli však na plnou úhradu skutečných nákladů přenesené působnosti — modalita oprávnění je zde limitována svým rozsahem. Povinnosti obce podle § 38 odst. 1 tvoří jádro **péče řádného hospodáře** na obecní úrovni a jsou soudy vykládány jako přímá zákonná povinnost pečovat o majetek a chránit jej.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 16 odst. 2 | má právo | „Občan obce, který dosáhl věku 18 let, má právo" | Subjektivní politická a participativní práva občana obce. |
+| § 62 | obdrží | „Obce obdrží ze státního rozpočtu příspěvek na plnění úkolů v přenesené působnosti." | Nárok obce na příspěvek za výkon přenesené působnosti (nikoli plná úhrada nákladů). |
+| § 82 | má právo | „Člen zastupitelstva obce má při výkonu své funkce právo" | Procesní kontrolní práva zastupitele (návrhy, interpelace, informace ve lhůtě 30 dnů). |
+| § 89 odst. 1 | může podat žalobu | „Proti tomuto rozhodnutí může obec podat žalobu k soudu." | Opravný prostředek proti rozpuštění zastupitelstva — pojistka proti svévoli dozoru. |
+| § 38 odst. 1 | je povinna pečovat | „Obec je povinna pečovat o zachování a rozvoj svého majetku." | Povinnost hospodárně spravovat majetek; jádro péče řádného hospodáře. |
+| § 83 odst. 1 | je povinen | „Člen zastupitelstva obce je povinen zúčastňovat se zasedání zastupitelstva obce, popřípadě zasedání jiných orgánů obce, je-li jejich členem, plnit úkoly, které mu tyto orgány uloží, hájit zájmy občanů obce" | Katalog povinností zastupitele (účast, plnění úkolů, hájení zájmů občanů). |
+| § 129a odst. 1 | je povinna zajistit nápravu | „Obec je povinna zajistit nápravu nedostatků zjištěných kontrolou výkonu samostatné působnosti." | Primární povinnost obce odstranit nedostatky zjištěné kontrolou samostatné působnosti. |
+| § 129b odst. 2 | je povinna zajistit nápravu a splnění uložených opatření | „Osoba uvedená v odstavci 1 je povinna zajistit nápravu nedostatků zjištěných kontrolou a splnění uložených opatření." | V přenesené působnosti povinnost nápravy i splnění závazně uložených opatření. |
+
+- *ÚS* [II.ÚS 2396/09](judikatura/US-II-S-2396-09.md) — nález, 13. 8. 2012
+  > „Z ustanovení § 38 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, plyne obci přímá povinnost pečovat o zachování a rozvoj svého majetku a chránit jej před neoprávněnými zásahy"
+
+
+### Domněnky a fikce
+
+Domněnky a fikce plní v obecním zřízení systémovou funkci třídění působností a přenosu právních režimů. Nejvýznamnější je **nevyvratitelná domněnka § 8**: neoznačí-li zvláštní zákon působnost obce výslovně za přenesenou, platí, že jde vždy o samostatnou působnost. Tato konstrukce („platí, že") vylučuje důkaz opaku a činí ze samostatné působnosti pravidlo a z přenesené výjimku vyžadující výslovné zákonné určení — má tedy povahu interpretačního zbytkového pravidla s ústavním pozadím (presumpce ve prospěch samosprávy).
+
+**Fikce** ztotožňuje skutkově odlišné jevy pro účely normy: § 79 podřazuje vztah obce a zastupitele režimu zákoníku práce tím, že obec „se považuje za" zaměstnavatele a zastupitelé „se považují za" zaměstnance (splatnost odměn, srážky, odpovědnost za škodu). Obdobně § 149b odst. 3 kvalifikuje výkon funkce veřejného opatrovníka jako přenesenou působnost, čímž tuto agendu podřazuje režimu státní správy. Fikcí kontinuity kvalifikace působí § 152 odst. 5, podle nějž se dříve získaná zvláštní odborná způsobilost „považuje za" prokázanou podle nového zákona.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 8 | platí, že | „platí, že jde vždy o samostatnou působnost." | Nevyvratitelná domněnka: bez výslovného určení jde vždy o samostatnou působnost. |
+| § 79 | se považuje za | „Pro tyto účely se obec považuje za zaměstnavatele a členové zastupitelstva obce se považují za zaměstnance." | Fikce podřazující vztah obce a zastupitele režimu zákoníku práce. |
+| § 149b odst. 3 | je výkonem přenesené působnosti | „Výkon funkce veřejného opatrovníka podle občanského zákoníku47) obcí je výkonem přenesené působnosti." | Kvalifikuje opatrovnictví obcí jako výkon státní správy (přenesená působnost). |
+| § 152 odst. 5 | se považuje za | „se považuje za zvláštní odbornou způsobilost prokázanou podle tohoto zákona" | Fikce kontinuity kvalifikace — dříve získaná ZOZ se pokládá za prokázanou. |
+
+- *ÚS* [II.ÚS 995/07](judikatura/US-II-S-995-07.md) — usnesení, 10. 7. 2007
+  > „zavedl obecné pravidlo, že pokud zvláštní zákon upravuje působnost obcí a nestanoví, že jde o přenesenou působnost, platí, že jde vždy o samostatnou působnost (§ 8 zákona č. 128/2000 Sb.)"
+- *NSS* [10 A 101/2015 - 33](judikatura/NSS-10-A-101-2015-33.md) — rozsudek, 11. 7. 2018
+  > „Výkon funkce veřejného opatrovníka je výkonem státní správy v rámci přenesené působnosti obce podle § 149b zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů"
+
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Modality v obecním zřízení nevystupují izolovaně; klíčové instituty je typicky vrství. **Normotvorba obce** spojuje zmocnění a jeho meze: § 10 zmocňuje obec ukládat povinnosti OZV, § 11 odst. 1 zmocnění k nařízení podmiňuje zákonným zmocněním („je-li k tomu zákonem zmocněna"), a § 134 odst. 2 tuto pravomoc zapovídá městským obvodům a částem („nemohou vydávat"). Trojice zmocnění — mez — zákaz tak vytváří uzavřený režim, v němž normotvorbu drží jen obec jako celek.
+
+**Nakládání s majetkem** kombinuje povinnost, příkaz a zákaz jako sankci: § 38 odst. 1 ukládá povinnost pečovat o majetek, § 39 odst. 1 přikazuje předchozí zveřejnění záměru a jeho porušení stíhá neplatností právního jednání, § 38 odst. 3 zakazuje ručení za cizí dluhy. Modality zde spolupůsobí jako vrstvená ochrana veřejného majetku — od pozitivní péče přes procedurální transparenci až po absolutní zákaz rizikových operací.
+
+**Rozhodovací mechanika orgánů** propojuje zmocnění a příkaz: generální kompetenci zastupitelstva (§ 84 odst. 1, „rozhoduje") a vyhrazené pravomoci rady (§ 102 odst. 2, „je vyhrazeno") uzavírá procedurální příkaz kvóra (§ 87, „je třeba souhlasu nadpoloviční většiny"). Dovnitř tohoto systému zasahuje dovolení — suspenzivní veto starosty vůči usnesení rady (§ 105). **Dozor státu** kombinuje dovolení, zmocnění a povinnost: MV může pozastavit účinnost OZV bez výzvy (§ 123 odst. 2), krajský úřad zruší nezákonný akt v přenesené působnosti (§ 126 odst. 1), a obec je povinna zajistit nápravu kontrolních zjištění (§ 129a odst. 1). Konečně **rozdělení působností** stojí na domněnce (§ 8, presumpce samostatné působnosti) a fikci (§ 149b odst. 3, opatrovnictví jako přenesená působnost), jež určují, který kontrolní a procesní režim se uplatní.
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+| --- | --- | --- |
+| Příkaz | zajišťují; musí být projednána; je třeba souhlasu; je povinen svolat; vybírá a vymáhá | § 9a; § 16 odst. 2 písm. f); § 87; § 92 odst. 1; § 147 odst. 3 |
+| Zákaz | nesmí ručit; je právní jednání neplatné; není vázán žádnými příkazy; nesmí být zkrácen; nemohou vydávat; pouze zrušit | § 38 odst. 3; § 39 odst. 1; § 69 odst. 4; § 70 odst. 2; § 134 odst. 2; § 147 odst. 2 |
+| Dovolení | může zakládat a zřizovat; pozastaví, má-li za to; může zřídit; může pozastavit bez výzvy; lze odejmout | § 35a odst. 1; § 105; § 117 odst. 1; § 123 odst. 2; § 132 odst. 2 |
+| Zmocnění | může ukládat; může vydávat; může udělit; rozhoduje; je vyhrazeno; zruší; kontrolují; vydá vyhlášky | § 10; § 11 odst. 1; § 34a odst. 2; § 84 odst. 1; § 102 odst. 2; § 126 odst. 1; § 129 odst. 1; § 153 |
+| Oprávnění | má právo; obdrží; může podat žalobu | § 16 odst. 2; § 62; § 82; § 89 odst. 1 |
+| Povinnost | je povinna pečovat; je povinen; je povinna zajistit nápravu | § 38 odst. 1; § 83 odst. 1; § 129a odst. 1; § 129b odst. 2 |
+| Domněnka / fikce | platí, že; se považuje za; je výkonem přenesené působnosti | § 8; § 79; § 149b odst. 3; § 152 odst. 5 |
